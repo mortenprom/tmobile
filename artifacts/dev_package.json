@@ -1,0 +1,171 @@
+{
+	"id": "a035f1aa-86cc-4383-9abb-a5d65bd32fd0",
+	"createdAt": "2025-12-06T09:30:45.206Z",
+	"createdBy": "morten@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/mortenprom/tmobile.git",
+		"branch": "main"
+	},
+	"name": "prom-tmobile",
+	"description": null,
+	"ver": "25.12.06.1031",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [
+		{
+			"id": "b34824bb-3c7c-44ba-8a71-ca200247eda4",
+			"name": "prom-tmobile",
+			"description": null
+		}
+	],
+	"theme_generator": [
+		{
+			"id": "0abd304b-cd7b-4e8f-bcdf-50f2cf95cf3b",
+			"name": "prom_tmobile_light",
+			"description": null
+		}
+	],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "e5ff05ad-32cc-4ecb-8cd9-84fa4726c75a",
+			"description": "{i18n.promTMobile>tile.switching.tradeInFour},{i18n.promTMobile>tile.switching.via24MonthlyBill},{i18n.promTMobile>tile.switching.getFullTerms}",
+			"name": "prom-tmobile-switching-iphone17-get4"
+		},
+		{
+			"id": "e3435a2f-2c08-4c91-a626-851fbf0ff99e",
+			"description": null,
+			"name": "prom-tmobile-explore-home-internet"
+		},
+		{
+			"id": "abbcdf8e-303a-44d8-9e4a-3937a4dc6c91",
+			"description": "{i18n.promTMobile>tile.switching.noTradeIn},{i18n.promTMobile>tile.switching.via24MonthlyBill},{i18n.promTMobile>tile.switching.getFullTerms}",
+			"name": "prom-tmobile-switching-iphone17-on-us"
+		},
+		{
+			"id": "9a06fff8-2a53-4b7c-9a0b-3c82a59d4030",
+			"description": "{i18n.promTMobile>tile.switching.getFreeSameDayPhoneDelivery}",
+			"name": "prom-tmobile-switching-switch"
+		},
+		{
+			"id": "9146b686-4ae4-4441-a0ef-51977b041011",
+			"description": null,
+			"name": "prom-tmobile-explore-business"
+		},
+		{
+			"id": "43e7aa95-c10a-4045-a242-0900e3052413",
+			"description": null,
+			"name": "prom-tmobile-explore-status"
+		},
+		{
+			"id": "31e4b234-a0b7-4251-968c-8591a91b04bf",
+			"description": null,
+			"name": "prom-tmobile-explore-travel"
+		},
+		{
+			"id": "2cc7c6e1-f736-41f4-920a-e23155988c28",
+			"description": null,
+			"name": "prom-tmobile-explore-free-trial"
+		},
+		{
+			"id": "1f8a85e0-27b6-4906-88ea-cd89868442fc",
+			"description": null,
+			"name": "prom-tmobile-explore-coverage-map"
+		}
+	],
+	"tile_layout": [
+		{
+			"id": "dd47b5e3-4c20-4d0d-963e-424eadc9d275",
+			"NAME": "prom-tmobile-switching"
+		},
+		{
+			"id": "bea5d553-b099-4174-957e-b7164f595cf3",
+			"NAME": "prom-tmobile-explore"
+		}
+	],
+	"category": [
+		{
+			"id": "b2d6dbe9-bcca-42c0-9c40-1f9259d93ace",
+			"description": null,
+			"name": "prom-tmobile-explore"
+		},
+		{
+			"id": "711c17f2-9cc4-4964-8c03-312948cf7294",
+			"description": null,
+			"name": "prom-tmobile-switching"
+		},
+		{
+			"id": "68bd96e2-cd86-4647-add0-ac146c9b52f9",
+			"description": null,
+			"name": "prom-tmobile"
+		}
+	],
+	"tilegroup_layout": [
+		{
+			"id": "afb0d14f-f5e2-4657-ad3e-285048d9cca2",
+			"NAME": "prom-tmobile-explore"
+		},
+		{
+			"id": "801de923-4e87-45f7-b380-48110c56ec40",
+			"NAME": "prom-tmobile-switching"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "fcaec8f3-2cb0-429b-9960-e14077dc5342",
+			"name": "prom-tmobile",
+			"description": null
+		}
+	],
+	"launchpad_layout": [
+		{
+			"id": "43013da6-6897-42bf-a9c1-4b726acf088c",
+			"NAME": "prom-tmobile-light",
+			"DESCR": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [
+		{
+			"id": "c25935fb-7576-46f7-ad16-51ed7acdb4f6",
+			"name": "promTMobile",
+			"description": null
+		}
+	],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": [],
+	"vault": []
+}

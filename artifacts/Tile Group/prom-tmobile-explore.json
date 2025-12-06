@@ -1,0 +1,163 @@
+{
+	"id": "b2d6dbe9-bcca-42c0-9c40-1f9259d93ace",
+	"createdAt": "2025-12-06T10:17:19.118Z",
+	"createdBy": "morten@neptune-software.com",
+	"translation": [],
+	"tilesOrder": [
+		"e3435a2f-2c08-4c91-a626-851fbf0ff99e",
+		"9146b686-4ae4-4441-a0ef-51977b041011",
+		"1f8a85e0-27b6-4906-88ea-cd89868442fc",
+		"31e4b234-a0b7-4251-968c-8591a91b04bf",
+		"43e7aa95-c10a-4045-a242-0900e3052413",
+		"2cc7c6e1-f736-41f4-920a-e23155988c28"
+	],
+	"tilegroupsOrder": [],
+	"configMessage": {},
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
+	"title": "{i18n.promTMobile>group.explore.title}",
+	"subTitle": null,
+	"menuText": "{i18n.promTMobile>group.explore.menuText}",
+	"description": null,
+	"enableFullScreen": false,
+	"hideHeader": false,
+	"backgroundType": "cards",
+	"backgroundColor": "",
+	"backgroundShade": null,
+	"type": null,
+	"image": null,
+	"icon": null,
+	"sort": null,
+	"inclFav": false,
+	"styleClass": null,
+	"enableScroll": false,
+	"enableShadeCalc": false,
+	"numTiles": null,
+	"enableMessage": false,
+	"ver": "25.12.06.1255",
+	"headColor": null,
+	"headTxtClr": null,
+	"subheadTxtClr": null,
+	"headBorderClr": null,
+	"headBorderWidth": null,
+	"imageTablet": null,
+	"imageMobile": null,
+	"imageCover": false,
+	"imageTabletCover": false,
+	"imageMobileCover": false,
+	"imageMobileHeight": null,
+	"imageTabletHeight": null,
+	"imageHeight": null,
+	"name": "prom-tmobile-explore",
+	"cardContentWidth": "",
+	"cardContentAlign": null,
+	"cardPerRow": null,
+	"cardStyle": null,
+	"cardHeightFit": false,
+	"imagePlacement": null,
+	"imageRepeat": null,
+	"imageSize": null,
+	"imageTabletPlacement": null,
+	"imageTabletRepeat": null,
+	"imageTabletSize": null,
+	"imageMobilePlacement": null,
+	"imageMobileRepeat": null,
+	"imageMobileSize": null,
+	"hideFromMenu": false,
+	"roleTag": null,
+	"cockpitTileGroup": false,
+	"package": "a035f1aa-86cc-4383-9abb-a5d65bd32fd0",
+	"openClickTile": false,
+	"groupLayoutLight": null,
+	"groupLayoutDark": null,
+	"tileLayoutLight": null,
+	"tileLayoutDark": null,
+	"cardWidth": null,
+	"cardHeight": null,
+	"tileBackgroundHeight": null,
+	"imageHeightMedia": null,
+	"imageTabletHeightMedia": null,
+	"imageMobileHeightMedia": null,
+	"imageDark": null,
+	"imageTabletDark": null,
+	"imageMobileDark": null,
+	"imageDarkHeightMedia": null,
+	"imageTabletDarkHeightMedia": null,
+	"imageMobileDarkHeightMedia": null,
+	"forceTileAttributes": false,
+	"forceGroupAttributes": false,
+	"imageDarkNone": false,
+	"imageTabletDarkNone": false,
+	"imageMobileDarkNone": false,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
+	"navbarWidth": null,
+	"sidebarWidth": null,
+	"navbarFit": null,
+	"sidebarFit": null,
+	"FIORI_STYLE": null,
+	"roles": [],
+	"lightGroupLayouts": [
+		{
+			"id": "afb0d14f-f5e2-4657-ad3e-285048d9cca2",
+			"ver": "25.12.06.1254"
+		}
+	],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "bea5d553-b099-4174-957e-b7164f595cf3",
+			"ver": "25.12.06.1133"
+		}
+	],
+	"darkTileLayouts": [],
+	"tiles": [
+		{
+			"id": "e3435a2f-2c08-4c91-a626-851fbf0ff99e",
+			"name": "prom-tmobile-explore-home-internet",
+			"title": "{i18n.promTMobile>tile.explore.homeInternet}",
+			"ver": "25.12.06.1255"
+		},
+		{
+			"id": "9146b686-4ae4-4441-a0ef-51977b041011",
+			"name": "prom-tmobile-explore-business",
+			"title": "{i18n.promTMobile>tile.explore.business}",
+			"ver": "25.12.06.1256"
+		},
+		{
+			"id": "43e7aa95-c10a-4045-a242-0900e3052413",
+			"name": "prom-tmobile-explore-status",
+			"title": "{i18n.promTMobile>tile.explore.status}",
+			"ver": "25.12.06.1256"
+		},
+		{
+			"id": "31e4b234-a0b7-4251-968c-8591a91b04bf",
+			"name": "prom-tmobile-explore-travel",
+			"title": "{i18n.promTMobile>tile.explore.travel}",
+			"ver": "25.12.06.1256"
+		},
+		{
+			"id": "2cc7c6e1-f736-41f4-920a-e23155988c28",
+			"name": "prom-tmobile-explore-free-trial",
+			"title": "{i18n.promTMobile>tile.explore.freeTrial}",
+			"ver": "25.12.06.1256"
+		},
+		{
+			"id": "1f8a85e0-27b6-4906-88ea-cd89868442fc",
+			"name": "prom-tmobile-explore-coverage-map",
+			"title": "{i18n.promTMobile>tile.explore.coverageMap}",
+			"ver": "25.12.06.1256"
+		}
+	],
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": [],
+	"i18n": [
+		{
+			"id": "c25935fb-7576-46f7-ad16-51ed7acdb4f6",
+			"name": "promTMobile",
+			"application": null,
+			"ver": "25.12.06.1928"
+		}
+	]
+}

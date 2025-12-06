@@ -1,0 +1,3710 @@
+{
+	"id": "c25935fb-7576-46f7-ad16-51ed7acdb4f6",
+	"createdAt": "2025-12-06T10:44:53.694Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [
+		{
+			"name": "group",
+			"en": {},
+			"type": "XTXT",
+			"id": "e9122eeb-9ad8-49a3-85bf-9871a7cd27e6",
+			"EN": {
+				"text": ""
+			},
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "group",
+			"parentId": "e9122eeb-9ad8-49a3-85bf-9871a7cd27e6",
+			"name": "group.explore",
+			"text": "",
+			"en": {
+				"text": ""
+			},
+			"type": "XTXT",
+			"id": "54b30c51-b2ea-4253-b990-f75abc53b38e",
+			"EN": {
+				"text": ""
+			},
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "group.explore",
+			"parentId": "54b30c51-b2ea-4253-b990-f75abc53b38e",
+			"name": "group.explore.menuText",
+			"text": "EXPLORE",
+			"en": {
+				"text": "EXPLORE"
+			},
+			"type": "XTXT",
+			"id": "ef0fde7c-86ba-4dcf-d25d-61a7356986c2",
+			"EN": {
+				"text": "EXPLORE"
+			},
+			"AF": {
+				"text": "VERKEN"
+			},
+			"AR": {
+				"text": "يستكشف"
+			},
+			"BG": {
+				"text": "РАЗГЛЕДАЙТЕ"
+			},
+			"ZH": {
+				"text": "探索"
+			},
+			"ZF": {
+				"text": "探索"
+			},
+			"HR": {
+				"text": "ISTRAŽITI"
+			},
+			"CS": {
+				"text": "PROZKOUMAT"
+			},
+			"DA": {
+				"text": "UDFORSKE"
+			},
+			"NL": {
+				"text": "ONTDEKKEN"
+			},
+			"ET": {
+				"text": "AVASTA"
+			},
+			"FI": {
+				"text": "TUTKIA"
+			},
+			"FR": {
+				"text": "EXPLORER"
+			},
+			"DE": {
+				"text": "ERKUNDEN"
+			},
+			"EL": {
+				"text": "ΕΞΕΡΕΥΝΩ"
+			},
+			"HE": {
+				"text": "לַחקוֹר"
+			},
+			"HU": {
+				"text": "FEDEZZE FEL"
+			},
+			"IS": {
+				"text": "KANNA"
+			},
+			"ID": {
+				"text": "MENGEKSPLORASI"
+			},
+			"IT": {
+				"text": "ESPLORARE"
+			},
+			"JA": {
+				"text": "探検する"
+			},
+			"KO": {
+				"text": "탐구하다"
+			},
+			"LV": {
+				"text": "IZPĒTIET"
+			},
+			"LT": {
+				"text": "TYRINĖTI"
+			},
+			"MS": {
+				"text": "MENEROKA"
+			},
+			"NO": {
+				"text": "UTFORSKE"
+			},
+			"PL": {
+				"text": "BADAĆ"
+			},
+			"PT": {
+				"text": "EXPLORAR"
+			},
+			"RO": {
+				"text": "EXPLORA"
+			},
+			"RU": {
+				"text": "ИССЛЕДОВАТЬ"
+			},
+			"SR": {
+				"text": "ИСТРАЖИ"
+			},
+			"SH": {
+				"text": "ИСТРАЖИ"
+			},
+			"SK": {
+				"text": "PRESKÚMAŤ"
+			},
+			"SL": {
+				"text": "RAZIŠČI"
+			},
+			"ES": {
+				"text": "EXPLORAR"
+			},
+			"SV": {
+				"text": "UTFORSKA"
+			},
+			"TH": {
+				"text": "สำรวจ"
+			},
+			"TR": {
+				"text": "KEŞFETMEK"
+			},
+			"UK": {
+				"text": "ДОСЛІДЖУЙТЕ"
+			},
+			"VI": {
+				"text": "KHÁM PHÁ"
+			}
+		},
+		{
+			"parent": "group.explore",
+			"parentId": "54b30c51-b2ea-4253-b990-f75abc53b38e",
+			"name": "group.explore.title",
+			"text": "Explore T-Mobile.",
+			"en": {
+				"text": "Explore T-Mobile."
+			},
+			"type": "XTXT",
+			"id": "4a6dfafe-0518-4722-efd7-f013e679052f",
+			"EN": {
+				"text": "Explore T-Mobile."
+			},
+			"AF": {
+				"text": "Verken T-Mobile."
+			},
+			"AR": {
+				"text": "استكشف T-Mobile."
+			},
+			"BG": {
+				"text": "Разгледайте T-Mobile."
+			},
+			"ZH": {
+				"text": "探索T-Mobile。"
+			},
+			"ZF": {
+				"text": "探索T-Mobile。"
+			},
+			"HR": {
+				"text": "Istražite T-Mobile."
+			},
+			"CS": {
+				"text": "Prozkoumejte T-Mobile."
+			},
+			"DA": {
+				"text": "Udforsk T-Mobile."
+			},
+			"NL": {
+				"text": "Ontdek T-Mobile."
+			},
+			"ET": {
+				"text": "Avasta T-Mobile."
+			},
+			"FI": {
+				"text": "Tutustu T-Mobileen."
+			},
+			"FR": {
+				"text": "Explorez T-Mobile."
+			},
+			"DE": {
+				"text": "Entdecke T-Mobile."
+			},
+			"EL": {
+				"text": "Εξερευνήστε την T-Mobile."
+			},
+			"HE": {
+				"text": "גלו את טי-מובייל."
+			},
+			"HU": {
+				"text": "Fedezd fel a T-Mobile-t."
+			},
+			"IS": {
+				"text": "Kannaðu T-Mobile."
+			},
+			"ID": {
+				"text": "Jelajahi T-Mobile."
+			},
+			"IT": {
+				"text": "Esplora T-Mobile."
+			},
+			"JA": {
+				"text": "T-Mobile を探索してください。"
+			},
+			"KO": {
+				"text": "T-Mobile을 탐색해보세요."
+			},
+			"LV": {
+				"text": "Iepazīstieties ar T-Mobile."
+			},
+			"LT": {
+				"text": "Naršykite „T-Mobile“."
+			},
+			"MS": {
+				"text": "Terokai T-Mobile."
+			},
+			"NO": {
+				"text": "Utforsk T-Mobile."
+			},
+			"PL": {
+				"text": "Poznaj T-Mobile."
+			},
+			"PT": {
+				"text": "Explore a T-Mobile."
+			},
+			"RO": {
+				"text": "Explorează T-Mobile."
+			},
+			"RU": {
+				"text": "Откройте для себя T-Mobile."
+			},
+			"SR": {
+				"text": "Истражите Т-Мобил."
+			},
+			"SH": {
+				"text": "Истражите Т-Мобил."
+			},
+			"SK": {
+				"text": "Preskúmajte T-Mobile."
+			},
+			"SL": {
+				"text": "Raziščite T-Mobile."
+			},
+			"ES": {
+				"text": "Explora T-Mobile."
+			},
+			"SV": {
+				"text": "Utforska T-Mobile."
+			},
+			"TH": {
+				"text": "สำรวจ T-Mobile"
+			},
+			"TR": {
+				"text": "T-Mobile'ı keşfedin."
+			},
+			"UK": {
+				"text": "Ознайомтеся з T-Mobile."
+			},
+			"VI": {
+				"text": "Khám phá T-Mobile."
+			}
+		},
+		{
+			"parent": "group",
+			"parentId": "e9122eeb-9ad8-49a3-85bf-9871a7cd27e6",
+			"name": "group.switching",
+			"en": {},
+			"type": "XTXT",
+			"id": "e4878dfb-5a9e-43d9-9e6c-41b59bc375d9",
+			"EN": {
+				"text": ""
+			},
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "group.switching",
+			"parentId": "e4878dfb-5a9e-43d9-9e6c-41b59bc375d9",
+			"name": "group.switching.subTitle",
+			"text": "Get FREE same-day phone delivery. Switch online today and save $35 per line.",
+			"en": {
+				"text": "Get FREE same-day phone delivery. Switch online today and save $35 per line."
+			},
+			"type": "XTXT",
+			"id": "2b5d8f4e-5573-4cab-a5ef-176087b8b001",
+			"EN": {
+				"text": "Get FREE same-day phone delivery. Switch online today and save $35 per line."
+			},
+			"AF": {
+				"text": "Kry GRATIS aflewering op dieselfde dag. Skakel vandag aanlyn oor en bespaar $35 per lyn."
+			},
+			"AR": {
+				"text": "احصل على توصيل مجاني في نفس اليوم. انضم إلينا اليوم ووفر 35 دولارًا أمريكيًا لكل خط."
+			},
+			"BG": {
+				"text": "Вземете БЕЗПЛАТНА доставка по телефона в същия ден. Преминете онлайн днес и спестете $35 на линия."
+			},
+			"ZH": {
+				"text": "免费当日送达手机。立即在线切换，每条线路节省 35 美元。"
+			},
+			"ZF": {
+				"text": "免費當日送達手機。立即在線切換，每條線路節省 35 美元。"
+			},
+			"HR": {
+				"text": "Ostvarite BESPLATNU dostavu na telefon istog dana. Prebacite se na internet već danas i uštedite 35 USD po liniji."
+			},
+			"CS": {
+				"text": "Získejte doručení telefonu ZDARMA v ten samý den. Přepněte se na online připojení ještě dnes a ušetřete 35 dolarů za linku."
+			},
+			"DA": {
+				"text": "Få GRATIS telefonlevering samme dag. Skift online i dag og spar 35 USD pr. linje."
+			},
+			"NL": {
+				"text": "Profiteer van GRATIS levering op dezelfde dag. Stap vandaag nog online over en bespaar $ 35 per lijn."
+			},
+			"ET": {
+				"text": "TASUTA telefoni kättetoimetamine samal päeval. Mine juba täna veebi ja säästa 35 dollarit rea kohta."
+			},
+			"FI": {
+				"text": "Saat ILMAISEN toimituksen puhelimeen samana päivänä. Vaihda verkkoon tänään ja säästä 35 dollaria linjaa kohden."
+			},
+			"FR": {
+				"text": "Livraison téléphonique gratuite le jour même. Changez d'opérateur en ligne dès aujourd'hui et économisez 35 $ par ligne."
+			},
+			"DE": {
+				"text": "Sichern Sie sich die kostenlose Lieferung Ihres Handys am selben Tag. Wechseln Sie noch heute online und sparen Sie 35 $ pro Anschluss."
+			},
+			"EL": {
+				"text": "Αποκτήστε ΔΩΡΕΑΝ τηλεφωνική παράδοση την ίδια ημέρα. Συνδεθείτε online σήμερα και εξοικονομήστε 35 $ ανά γραμμή."
+			},
+			"HE": {
+				"text": "קבלו משלוח טלפוני חינם באותו היום. עברו לאתר עוד היום וחסכו 35 דולר לקו."
+			},
+			"HU": {
+				"text": "INGYENES aznapi telefonos kiszállítás. Váltson online még ma, és takarítson meg 35 dollárt vonalanként."
+			},
+			"IS": {
+				"text": "Fáðu ÓKEYPIS símasendingu sama dag. Skiptu um netið í dag og sparaðu $35 á línu."
+			},
+			"ID": {
+				"text": "Dapatkan layanan pengiriman telepon GRATIS di hari yang sama. Beralih online hari ini dan hemat $35 per saluran."
+			},
+			"IT": {
+				"text": "Ottieni la consegna telefonica GRATUITA in giornata. Passa online oggi stesso e risparmia 35 $ a linea."
+			},
+			"JA": {
+				"text": "当日配送が無料。今すぐオンラインで切り替えて、1回線あたり35ドル節約しましょう。"
+			},
+			"KO": {
+				"text": "무료 당일 전화 배송 서비스를 이용하세요. 오늘 온라인으로 전환하시면 회선당 35달러를 절약하실 수 있습니다."
+			},
+			"LV": {
+				"text": "Saņemiet BEZMAKSAS piegādi pa tālruni tajā pašā dienā. Pārslēdzieties uz tiešsaistes pakalpojumu jau šodien un ietaupiet 35 USD par līniju."
+			},
+			"LT": {
+				"text": "Gaukite NEMOKAMĄ pristatymą tą pačią dieną telefonu. Perjunkite internetu šiandien ir sutaupykite 35 USD už liniją."
+			},
+			"MS": {
+				"text": "Dapatkan penghantaran telefon pada hari yang sama secara PERCUMA. Tukar dalam talian hari ini dan jimat $35 setiap baris."
+			},
+			"NO": {
+				"text": "Få GRATIS telefonlevering samme dag. Bytt til nett i dag og spar 35 dollar per linje."
+			},
+			"PL": {
+				"text": "Skorzystaj z DARMOWEJ dostawy telefonicznej tego samego dnia. Przejdź do sieci już dziś i zaoszczędź 35 USD za linię."
+			},
+			"PT": {
+				"text": "Receba seu telefone gratuitamente no mesmo dia. Mude online hoje mesmo e economize US$ 35 por linha."
+			},
+			"RO": {
+				"text": "Beneficiați de livrare gratuită prin telefon în aceeași zi. Treceți online astăzi și economisiți 35 USD pe linie."
+			},
+			"RU": {
+				"text": "Получите БЕСПЛАТНУЮ доставку в тот же день. Подключитесь к интернету сегодня и сэкономьте 35 долларов за номер."
+			},
+			"SR": {
+				"text": "Добијте БЕСПЛАТНУ доставу телефона истог дана. Пређите на онлајн услугу већ данас и уштедите 35 долара по линији."
+			},
+			"SH": {
+				"text": "Добијте БЕСПЛАТНУ доставу телефона истог дана. Пређите на онлајн услугу већ данас и уштедите 35 долара по линији."
+			},
+			"SK": {
+				"text": "Získajte BEZPLATNÉ doručenie telefónu v ten istý deň. Prepnite sa na online pripojenie ešte dnes a ušetrite 35 dolárov za linku."
+			},
+			"SL": {
+				"text": "Pridobite BREZPLAČNO dostavo na telefon še isti dan. Preklopite na splet še danes in prihranite 35 USD na linijo."
+			},
+			"ES": {
+				"text": "Recibe tu teléfono GRATIS el mismo día. Cámbiate en línea hoy mismo y ahorra $35 por línea."
+			},
+			"SV": {
+				"text": "Få GRATIS telefonleverans samma dag. Byt online idag och spara 35 dollar per linje."
+			},
+			"TH": {
+				"text": "รับบริการจัดส่งโทรศัพท์ฟรีภายในวันเดียวกัน เปลี่ยนออนไลน์วันนี้ ประหยัด 35 ดอลลาร์ต่อสาย"
+			},
+			"TR": {
+				"text": "ÜCRETSİZ aynı gün telefon teslimatı alın. Bugün çevrimiçi olun ve hat başına 35 $ tasarruf edin."
+			},
+			"UK": {
+				"text": "Отримайте БЕЗКОШТОВНУ доставку телефону в той самий день. Перейдіть на онлайн-сервіс сьогодні та заощадьте 35 доларів США за лінію."
+			},
+			"VI": {
+				"text": "Nhận giao hàng điện thoại MIỄN PHÍ trong ngày. Chuyển sang trực tuyến ngay hôm nay và tiết kiệm 35 đô la mỗi dòng."
+			}
+		},
+		{
+			"parent": "group.switching",
+			"parentId": "e4878dfb-5a9e-43d9-9e6c-41b59bc375d9",
+			"name": "group.switching.title",
+			"text": "Switching just got easier.",
+			"en": {
+				"text": "Switching just got easier."
+			},
+			"type": "XTXT",
+			"id": "1b6aa867-468a-4df8-f9f8-55de4805e2e3",
+			"EN": {
+				"text": "Switching just got easier."
+			},
+			"AF": {
+				"text": "Om oor te skakel het nou net makliker geword."
+			},
+			"AR": {
+				"text": "أصبح التبديل أسهل الآن."
+			},
+			"BG": {
+				"text": "Превключването току-що стана по-лесно."
+			},
+			"ZH": {
+				"text": "切换操作变得更简单了。"
+			},
+			"ZF": {
+				"text": "切換操作變得更簡單了。"
+			},
+			"HR": {
+				"text": "Prebacivanje je upravo postalo lakše."
+			},
+			"CS": {
+				"text": "Přepínání je právě jednodušší."
+			},
+			"DA": {
+				"text": "Det er lige blevet nemmere at skifte."
+			},
+			"NL": {
+				"text": "Overstappen is nu nog eenvoudiger."
+			},
+			"ET": {
+				"text": "Vahetamine on just lihtsamaks muutunud."
+			},
+			"FI": {
+				"text": "Vaihtamisesta tuli juuri helpompaa."
+			},
+			"FR": {
+				"text": "Changer de mode de vie est désormais plus facile."
+			},
+			"DE": {
+				"text": "Der Wechsel ist jetzt noch einfacher."
+			},
+			"EL": {
+				"text": "Η εναλλαγή μόλις έγινε ευκολότερη."
+			},
+			"HE": {
+				"text": "המעבר פשוט נהיה קל יותר."
+			},
+			"HU": {
+				"text": "A váltás most még könnyebb lett."
+			},
+			"IS": {
+				"text": "Það er bara orðið auðveldara að skipta."
+			},
+			"ID": {
+				"text": "Beralih menjadi lebih mudah."
+			},
+			"IT": {
+				"text": "Cambiare è diventato più semplice."
+			},
+			"JA": {
+				"text": "切り替えがさらに簡単になりました。"
+			},
+			"KO": {
+				"text": "전환이 더욱 쉬워졌습니다."
+			},
+			"LV": {
+				"text": "Pārslēgšanās tikko kļuva vienkāršāka."
+			},
+			"LT": {
+				"text": "Perjungimas tapo lengvesnis."
+			},
+			"MS": {
+				"text": "Bertukar menjadi lebih mudah."
+			},
+			"NO": {
+				"text": "Det har nettopp blitt enklere å bytte."
+			},
+			"PL": {
+				"text": "Przełączanie stało się łatwiejsze."
+			},
+			"PT": {
+				"text": "A transição ficou mais fácil."
+			},
+			"RO": {
+				"text": "Comutarea tocmai a devenit mai ușoară."
+			},
+			"RU": {
+				"text": "Переключение стало еще проще."
+			},
+			"SR": {
+				"text": "Пребацивање је управо постало лакше."
+			},
+			"SH": {
+				"text": "Пребацивање је управо постало лакше."
+			},
+			"SK": {
+				"text": "Prepínanie je práve jednoduchšie."
+			},
+			"SL": {
+				"text": "Preklapljanje je pravkar postalo lažje."
+			},
+			"ES": {
+				"text": "Cambiar ahora es más fácil."
+			},
+			"SV": {
+				"text": "Att byta har precis blivit enklare."
+			},
+			"TH": {
+				"text": "การสลับทำได้ง่ายขึ้นแล้ว"
+			},
+			"TR": {
+				"text": "Geçiş yapmak artık daha kolay."
+			},
+			"UK": {
+				"text": "Перемикання стало ще простішим."
+			},
+			"VI": {
+				"text": "Việc chuyển đổi giờ đây trở nên dễ dàng hơn."
+			}
+		},
+		{
+			"name": "tile",
+			"en": {},
+			"type": "XTXT",
+			"id": "dc9d2d85-822f-4528-9819-bc29ad67caf6",
+			"EN": {
+				"text": ""
+			},
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "tile",
+			"parentId": "dc9d2d85-822f-4528-9819-bc29ad67caf6",
+			"name": "tile.explore",
+			"en": {},
+			"type": "XTXT",
+			"id": "96980ad8-eb18-4921-af2c-cce872136f0b",
+			"EN": {
+				"text": ""
+			},
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "tile.explore",
+			"parentId": "96980ad8-eb18-4921-af2c-cce872136f0b",
+			"name": "tile.explore.business",
+			"text": "BUSINESS",
+			"en": {
+				"text": "BUSINESS"
+			},
+			"type": "XTXT",
+			"id": "8db192fc-ec36-448c-d391-4d52f478d77b",
+			"EN": {
+				"text": "BUSINESS"
+			},
+			"AF": {
+				"text": "BESIGHEID"
+			},
+			"AR": {
+				"text": "عمل"
+			},
+			"BG": {
+				"text": "БИЗНЕС"
+			},
+			"ZH": {
+				"text": "商业"
+			},
+			"ZF": {
+				"text": "商業"
+			},
+			"HR": {
+				"text": "POSLOVANJE"
+			},
+			"CS": {
+				"text": "PODNIKÁNÍ"
+			},
+			"DA": {
+				"text": "FORRETNING"
+			},
+			"NL": {
+				"text": "BEDRIJF"
+			},
+			"ET": {
+				"text": "ÄRI"
+			},
+			"FI": {
+				"text": "LIIKETOIMINTA"
+			},
+			"FR": {
+				"text": "ENTREPRISE"
+			},
+			"DE": {
+				"text": "GESCHÄFT"
+			},
+			"EL": {
+				"text": "ΕΠΙΧΕΙΡΗΣΗ"
+			},
+			"HE": {
+				"text": "עֵסֶק"
+			},
+			"HU": {
+				"text": "ÜZLETI"
+			},
+			"IS": {
+				"text": "VIÐSKIPTI"
+			},
+			"ID": {
+				"text": "BISNIS"
+			},
+			"IT": {
+				"text": "ATTIVITÀ COMMERCIALE"
+			},
+			"JA": {
+				"text": "仕事"
+			},
+			"KO": {
+				"text": "사업"
+			},
+			"LV": {
+				"text": "BIZNESS"
+			},
+			"LT": {
+				"text": "VERSLAS"
+			},
+			"MS": {
+				"text": "PERNIAGAAN"
+			},
+			"NO": {
+				"text": "FORRETNING"
+			},
+			"PL": {
+				"text": "BIZNES"
+			},
+			"PT": {
+				"text": "NEGÓCIOS"
+			},
+			"RO": {
+				"text": "AFACERI"
+			},
+			"RU": {
+				"text": "БИЗНЕС"
+			},
+			"SR": {
+				"text": "ПОСАО"
+			},
+			"SH": {
+				"text": "ПОСАО"
+			},
+			"SK": {
+				"text": "PODNIKANIE"
+			},
+			"SL": {
+				"text": "POSLOVANJE"
+			},
+			"ES": {
+				"text": "NEGOCIO"
+			},
+			"SV": {
+				"text": "FÖRETAG"
+			},
+			"TH": {
+				"text": "ธุรกิจ"
+			},
+			"TR": {
+				"text": "İŞLETME"
+			},
+			"UK": {
+				"text": "БІЗНЕС"
+			},
+			"VI": {
+				"text": "VIỆC KINH DOANH"
+			}
+		},
+		{
+			"parent": "tile.explore",
+			"parentId": "96980ad8-eb18-4921-af2c-cce872136f0b",
+			"name": "tile.explore.coverageMap",
+			"text": "COVERAGE MAP",
+			"en": {
+				"text": "COVERAGE MAP"
+			},
+			"type": "XTXT",
+			"id": "b16d08b7-0fe9-4a18-b3b9-3de67f455ad7",
+			"EN": {
+				"text": "COVERAGE MAP"
+			},
+			"AF": {
+				"text": "DEKKINGSKAART"
+			},
+			"AR": {
+				"text": "خريطة التغطية"
+			},
+			"BG": {
+				"text": "КАРТА НА ПОКРИТИЕТО"
+			},
+			"ZH": {
+				"text": "覆盖范围图"
+			},
+			"ZF": {
+				"text": "覆蓋範圍圖"
+			},
+			"HR": {
+				"text": "KARTA POKRIVENOSTI"
+			},
+			"CS": {
+				"text": "MAPA POKRYTÍ"
+			},
+			"DA": {
+				"text": "DÆKNINGSKORT"
+			},
+			"NL": {
+				"text": "DEKKING KAART"
+			},
+			"ET": {
+				"text": "KATVUSKAART"
+			},
+			"FI": {
+				"text": "KATTAVUUSKARTTA"
+			},
+			"FR": {
+				"text": "CARTE DE COUVERTURE"
+			},
+			"DE": {
+				"text": "Abdeckungskarte"
+			},
+			"EL": {
+				"text": "ΧΑΡΤΗΣ ΚΑΛΥΨΗΣ"
+			},
+			"HE": {
+				"text": "מפת כיסוי"
+			},
+			"HU": {
+				"text": "LEFEDETTSÉGI TÉRKÉP"
+			},
+			"IS": {
+				"text": "ÞEKKINGARKORT"
+			},
+			"ID": {
+				"text": "PETA CAKUPAN"
+			},
+			"IT": {
+				"text": "MAPPA DI COPERTURA"
+			},
+			"JA": {
+				"text": "カバレッジマップ"
+			},
+			"KO": {
+				"text": "커버리지 맵"
+			},
+			"LV": {
+				"text": "APKĀRTUMA KARTE"
+			},
+			"LT": {
+				"text": "APRĖPTIES ŽEMĖLAPIS"
+			},
+			"MS": {
+				"text": "PETA LIPUTAN"
+			},
+			"NO": {
+				"text": "DEKNINGSKART"
+			},
+			"PL": {
+				"text": "MAPA ZASIĘGU"
+			},
+			"PT": {
+				"text": "MAPA DE COBERTURA"
+			},
+			"RO": {
+				"text": "HARTĂ DE ACOPERIRE"
+			},
+			"RU": {
+				"text": "КАРТА ПОКРЫТИЯ"
+			},
+			"SR": {
+				"text": "МАПА ПОКРИВЕНОСТИ"
+			},
+			"SH": {
+				"text": "МАПА ПОКРИВЕНОСТИ"
+			},
+			"SK": {
+				"text": "MAPA POKRYTIA"
+			},
+			"SL": {
+				"text": "ZEMLJEVID POKRITJA"
+			},
+			"ES": {
+				"text": "MAPA DE COBERTURA"
+			},
+			"SV": {
+				"text": "TÄCKNINGSKARTA"
+			},
+			"TH": {
+				"text": "แผนที่ครอบคลุม"
+			},
+			"TR": {
+				"text": "KAPSAM HARİTASI"
+			},
+			"UK": {
+				"text": "КАРТА ПОКРИТТЯ"
+			},
+			"VI": {
+				"text": "BẢN ĐỒ PHỦ SÓNG"
+			}
+		},
+		{
+			"parent": "tile.explore",
+			"parentId": "96980ad8-eb18-4921-af2c-cce872136f0b",
+			"name": "tile.explore.freeTrial",
+			"text": "FREE TRIAL",
+			"en": {
+				"text": "FREE TRIAL"
+			},
+			"type": "XTXT",
+			"id": "2d047366-c50e-45ec-e8f2-5f335aa34e40",
+			"EN": {
+				"text": "FREE TRIAL"
+			},
+			"AF": {
+				"text": "GRATIS PROEFLOPIE"
+			},
+			"AR": {
+				"text": "نسخة تجريبية مجانية"
+			},
+			"BG": {
+				"text": "БЕЗПЛАТЕН ПРОБЕН ПЕРИОД"
+			},
+			"ZH": {
+				"text": "免费试用"
+			},
+			"ZF": {
+				"text": "免費試用"
+			},
+			"HR": {
+				"text": "BESPLATNA PROBNA VERZIJA"
+			},
+			"CS": {
+				"text": "BEZPLATNÁ ZKUŠEBNÍ VERZE"
+			},
+			"DA": {
+				"text": "GRATIS PRØVEPERIODE"
+			},
+			"NL": {
+				"text": "GRATIS PROEFPERIODE"
+			},
+			"ET": {
+				"text": "TASUTA PROOVIPERIOOD"
+			},
+			"FI": {
+				"text": "ILMAINEN KOKEILU"
+			},
+			"FR": {
+				"text": "ESSAI GRATUIT"
+			},
+			"DE": {
+				"text": "KOSTENLOSE TESTVERSION"
+			},
+			"EL": {
+				"text": "ΔΩΡΕΑΝ ΔΟΚΙΜΗ"
+			},
+			"HE": {
+				"text": "ניסיון חינם"
+			},
+			"HU": {
+				"text": "INGYENES PRÓBAIDŐSZAK"
+			},
+			"IS": {
+				"text": "ÓKEYPIS PRÓFUN"
+			},
+			"ID": {
+				"text": "UJI COBA GRATIS"
+			},
+			"IT": {
+				"text": "PROVA GRATUITA"
+			},
+			"JA": {
+				"text": "無料トライアル"
+			},
+			"KO": {
+				"text": "무료 체험"
+			},
+			"LV": {
+				"text": "BEZMAKSAS IZMĒĢINĀJUMS"
+			},
+			"LT": {
+				"text": "NEMOKAMAS BANDYMAS"
+			},
+			"MS": {
+				"text": "PERCUBAAN PERCUMA"
+			},
+			"NO": {
+				"text": "GRATIS PRØVEPERIODE"
+			},
+			"PL": {
+				"text": "BEZPŁATNY OKRES PRÓBNY"
+			},
+			"PT": {
+				"text": "TESTE GRÁTIS"
+			},
+			"RO": {
+				"text": "PERIOADĂ DE PROBĂ GRATUITĂ"
+			},
+			"RU": {
+				"text": "БЕСПЛАТНАЯ ПРОБНАЯ ВЕРСИЯ"
+			},
+			"SR": {
+				"text": "БЕСПЛАТНА ПРОБА"
+			},
+			"SH": {
+				"text": "БЕСПЛАТНА ПРОБА"
+			},
+			"SK": {
+				"text": "BEZPLATNÁ SKÚŠOBNÁ VERZIA"
+			},
+			"SL": {
+				"text": "BREZPLAČEN PREIZKUS"
+			},
+			"ES": {
+				"text": "PRUEBA GRATUITA"
+			},
+			"SV": {
+				"text": "GRATIS PROVPERIOD"
+			},
+			"TH": {
+				"text": "ทดลองใช้ฟรี"
+			},
+			"TR": {
+				"text": "ÜCRETSİZ DENEME"
+			},
+			"UK": {
+				"text": "БЕЗКОШТОВНА ПРОБНА ВЕРСІЯ"
+			},
+			"VI": {
+				"text": "DÙNG THỬ MIỄN PHÍ"
+			}
+		},
+		{
+			"parent": "tile.explore",
+			"parentId": "96980ad8-eb18-4921-af2c-cce872136f0b",
+			"name": "tile.explore.homeInternet",
+			"text": "HOME INTERNET",
+			"en": {
+				"text": "HOME INTERNET"
+			},
+			"type": "XTXT",
+			"id": "6c7db59d-6409-4593-b6aa-7392e0572211",
+			"EN": {
+				"text": "HOME INTERNET"
+			},
+			"AF": {
+				"text": "TUIS INTERNET"
+			},
+			"AR": {
+				"text": "الإنترنت المنزلي"
+			},
+			"BG": {
+				"text": "ДОМАШЕН ИНТЕРНЕТ"
+			},
+			"ZH": {
+				"text": "家庭互联网"
+			},
+			"ZF": {
+				"text": "家庭網路"
+			},
+			"HR": {
+				"text": "KUĆNI INTERNET"
+			},
+			"CS": {
+				"text": "DOMÁCÍ INTERNET"
+			},
+			"DA": {
+				"text": "HJEMMET INTERNET"
+			},
+			"NL": {
+				"text": "THUIS INTERNET"
+			},
+			"ET": {
+				"text": "KODUINTERNET"
+			},
+			"FI": {
+				"text": "KOTIINTERNET"
+			},
+			"FR": {
+				"text": "INTERNET DOMICILE"
+			},
+			"DE": {
+				"text": "INTERNET ZU HAUSE"
+			},
+			"EL": {
+				"text": "ΟΙΚΙΑΚΟ ΙΝΤΕΡΝΕΤ"
+			},
+			"HE": {
+				"text": "אינטרנט ביתי"
+			},
+			"HU": {
+				"text": "OTTHONI INTERNET"
+			},
+			"IS": {
+				"text": "HEIMILINTERNET"
+			},
+			"ID": {
+				"text": "INTERNET RUMAH"
+			},
+			"IT": {
+				"text": "INTERNET DOMESTICO"
+			},
+			"JA": {
+				"text": "ホームインターネット"
+			},
+			"KO": {
+				"text": "홈 인터넷"
+			},
+			"LV": {
+				"text": "MĀJAS INTERNETS"
+			},
+			"LT": {
+				"text": "NAMŲ INTERNETAS"
+			},
+			"MS": {
+				"text": "INTERNET RUMAH"
+			},
+			"NO": {
+				"text": "HJEMMETILKORT"
+			},
+			"PL": {
+				"text": "INTERNET DOMOWY"
+			},
+			"PT": {
+				"text": "INTERNET RESIDENCIAL"
+			},
+			"RO": {
+				"text": "INTERNET DE ACASĂ"
+			},
+			"RU": {
+				"text": "ДОМАШНИЙ ИНТЕРНЕТ"
+			},
+			"SR": {
+				"text": "КУЋНИ ИНТЕРНЕТ"
+			},
+			"SH": {
+				"text": "КУЋНИ ИНТЕРНЕТ"
+			},
+			"SK": {
+				"text": "DOMÁCI INTERNET"
+			},
+			"SL": {
+				"text": "DOMAČI INTERNET"
+			},
+			"ES": {
+				"text": "INTERNET EN CASA"
+			},
+			"SV": {
+				"text": "HEMMAINTERNET"
+			},
+			"TH": {
+				"text": "อินเตอร์เน็ตบ้าน"
+			},
+			"TR": {
+				"text": "EV İNTERNETİ"
+			},
+			"UK": {
+				"text": "ДОМАШНІЙ ІНТЕРНЕТ"
+			},
+			"VI": {
+				"text": "INTERNET GIA ĐÌNH"
+			}
+		},
+		{
+			"parent": "tile.explore",
+			"parentId": "96980ad8-eb18-4921-af2c-cce872136f0b",
+			"name": "tile.explore.status",
+			"text": "STATUS",
+			"en": {
+				"text": "STATUS"
+			},
+			"type": "XTXT",
+			"id": "3b9c32bf-e68f-4570-a738-b9e8652ff27e",
+			"EN": {
+				"text": "STATUS"
+			},
+			"AF": {
+				"text": "STATUS"
+			},
+			"AR": {
+				"text": "حالة"
+			},
+			"BG": {
+				"text": "СТАТУС"
+			},
+			"ZH": {
+				"text": "地位"
+			},
+			"ZF": {
+				"text": "地位"
+			},
+			"HR": {
+				"text": "STATUS"
+			},
+			"CS": {
+				"text": "POSTAVENÍ"
+			},
+			"DA": {
+				"text": "STATUS"
+			},
+			"NL": {
+				"text": "STATUS"
+			},
+			"ET": {
+				"text": "STAATUS"
+			},
+			"FI": {
+				"text": "STATUS"
+			},
+			"FR": {
+				"text": "STATUT"
+			},
+			"DE": {
+				"text": "STATUS"
+			},
+			"EL": {
+				"text": "ΚΑΤΑΣΤΑΣΗ"
+			},
+			"HE": {
+				"text": "סטָטוּס"
+			},
+			"HU": {
+				"text": "ÁLLAPOT"
+			},
+			"IS": {
+				"text": "STAÐA"
+			},
+			"ID": {
+				"text": "STATUS"
+			},
+			"IT": {
+				"text": "STATO"
+			},
+			"JA": {
+				"text": "状態"
+			},
+			"KO": {
+				"text": "상태"
+			},
+			"LV": {
+				"text": "STATUSS"
+			},
+			"LT": {
+				"text": "STATUSAS"
+			},
+			"MS": {
+				"text": "STATUS"
+			},
+			"NO": {
+				"text": "STATUS"
+			},
+			"PL": {
+				"text": "STATUS"
+			},
+			"PT": {
+				"text": "STATUS"
+			},
+			"RO": {
+				"text": "STATUS"
+			},
+			"RU": {
+				"text": "СТАТУС"
+			},
+			"SR": {
+				"text": "СТАТУС"
+			},
+			"SH": {
+				"text": "СТАТУС"
+			},
+			"SK": {
+				"text": "STAV"
+			},
+			"SL": {
+				"text": "STANJE"
+			},
+			"ES": {
+				"text": "ESTADO"
+			},
+			"SV": {
+				"text": "STATUS"
+			},
+			"TH": {
+				"text": "สถานะ"
+			},
+			"TR": {
+				"text": "DURUM"
+			},
+			"UK": {
+				"text": "СТАТУС"
+			},
+			"VI": {
+				"text": "TRẠNG THÁI"
+			}
+		},
+		{
+			"parent": "tile.explore",
+			"parentId": "96980ad8-eb18-4921-af2c-cce872136f0b",
+			"name": "tile.explore.travel",
+			"text": "TRAVEL",
+			"en": {
+				"text": "TRAVEL"
+			},
+			"type": "XTXT",
+			"id": "7e62c555-059b-466e-fe3d-9abe95449621",
+			"EN": {
+				"text": "TRAVEL"
+			},
+			"AF": {
+				"text": "REIS"
+			},
+			"AR": {
+				"text": "يسافر"
+			},
+			"BG": {
+				"text": "ПЪТУВАНЕ"
+			},
+			"ZH": {
+				"text": "旅行"
+			},
+			"ZF": {
+				"text": "旅行"
+			},
+			"HR": {
+				"text": "PUTOVATI"
+			},
+			"CS": {
+				"text": "CESTOVAT"
+			},
+			"DA": {
+				"text": "REJSE"
+			},
+			"NL": {
+				"text": "REIS"
+			},
+			"ET": {
+				"text": "REIS"
+			},
+			"FI": {
+				"text": "MATKUSTAA"
+			},
+			"FR": {
+				"text": "VOYAGE"
+			},
+			"DE": {
+				"text": "REISEN"
+			},
+			"EL": {
+				"text": "ΤΑΞΙΔΙ"
+			},
+			"HE": {
+				"text": "לִנְסוֹעַ"
+			},
+			"HU": {
+				"text": "UTAZÁSI"
+			},
+			"IS": {
+				"text": "FERÐALÖG"
+			},
+			"ID": {
+				"text": "BEPERGIAN"
+			},
+			"IT": {
+				"text": "VIAGGIO"
+			},
+			"JA": {
+				"text": "旅行"
+			},
+			"KO": {
+				"text": "여행하다"
+			},
+			"LV": {
+				"text": "CEĻOJUMI"
+			},
+			"LT": {
+				"text": "KELIONĖS"
+			},
+			"MS": {
+				"text": "PERJALANAN"
+			},
+			"NO": {
+				"text": "REISE"
+			},
+			"PL": {
+				"text": "PODRÓŻ"
+			},
+			"PT": {
+				"text": "VIAGEM"
+			},
+			"RO": {
+				"text": "VOIAJ"
+			},
+			"RU": {
+				"text": "ПУТЕШЕСТВОВАТЬ"
+			},
+			"SR": {
+				"text": "ПУТОВАЊЕ"
+			},
+			"SH": {
+				"text": "ПУТОВАЊЕ"
+			},
+			"SK": {
+				"text": "CESTOVANIE"
+			},
+			"SL": {
+				"text": "POTOVANJA"
+			},
+			"ES": {
+				"text": "VIAJAR"
+			},
+			"SV": {
+				"text": "RESA"
+			},
+			"TH": {
+				"text": "การท่องเที่ยว"
+			},
+			"TR": {
+				"text": "SEYAHAT"
+			},
+			"UK": {
+				"text": "ПОДОРОЖІ"
+			},
+			"VI": {
+				"text": "DU LỊCH"
+			}
+		},
+		{
+			"parent": "tile",
+			"parentId": "dc9d2d85-822f-4528-9819-bc29ad67caf6",
+			"name": "tile.shopNow",
+			"text": "Shop Now",
+			"en": {
+				"text": "Shop Now"
+			},
+			"type": "XTXT",
+			"id": "92f344d4-1413-45c2-9ccc-6717a5bafa1d",
+			"AF": {
+				"text": "Koop Nou"
+			},
+			"AR": {
+				"text": "تسوق الآن"
+			},
+			"BG": {
+				"text": "Пазарувайте сега"
+			},
+			"CS": {
+				"text": "Nakupujte nyní"
+			},
+			"DA": {
+				"text": "Køb nu"
+			},
+			"DE": {
+				"text": "Jetzt einkaufen"
+			},
+			"EL": {
+				"text": "Ψωνίστε τώρα"
+			},
+			"EN": {
+				"text": "Shop Now"
+			},
+			"ES": {
+				"text": "Compra ahora"
+			},
+			"ET": {
+				"text": "Osta kohe"
+			},
+			"FI": {
+				"text": "Osta nyt"
+			},
+			"FR": {
+				"text": "Achetez maintenant"
+			},
+			"HE": {
+				"text": "קנה עכשיו"
+			},
+			"HR": {
+				"text": "Kupujte odmah"
+			},
+			"HU": {
+				"text": "Vásároljon most"
+			},
+			"ID": {
+				"text": "Belanja Sekarang"
+			},
+			"IS": {
+				"text": "Versla núna"
+			},
+			"IT": {
+				"text": "Acquista ora"
+			},
+			"JA": {
+				"text": "今すぐ購入"
+			},
+			"KO": {
+				"text": "지금 쇼핑하세요"
+			},
+			"LT": {
+				"text": "Apsipirkite dabar"
+			},
+			"LV": {
+				"text": "Iepērcies tūlīt"
+			},
+			"MS": {
+				"text": "Beli Sekarang"
+			},
+			"NL": {
+				"text": "Nu winkelen"
+			},
+			"NO": {
+				"text": "Handle nå"
+			},
+			"PL": {
+				"text": "Kup teraz"
+			},
+			"PT": {
+				"text": "Compre agora"
+			},
+			"RO": {
+				"text": "Cumpără acum"
+			},
+			"RU": {
+				"text": "Купить сейчас"
+			},
+			"SH": {
+				"text": "Купујте одмах"
+			},
+			"SK": {
+				"text": "Nakupujte teraz"
+			},
+			"SL": {
+				"text": "Nakupujte zdaj"
+			},
+			"SR": {
+				"text": "Купујте одмах"
+			},
+			"SV": {
+				"text": "Handla nu"
+			},
+			"TH": {
+				"text": "ช้อปเลยตอนนี้"
+			},
+			"TR": {
+				"text": "Şimdi Satın Al"
+			},
+			"UK": {
+				"text": "Купуйте зараз"
+			},
+			"VI": {
+				"text": "Mua ngay"
+			},
+			"ZF": {
+				"text": "立即購買"
+			},
+			"ZH": {
+				"text": "立即购买"
+			}
+		},
+		{
+			"parent": "tile",
+			"parentId": "dc9d2d85-822f-4528-9819-bc29ad67caf6",
+			"name": "tile.switching",
+			"en": {},
+			"type": "XTXT",
+			"id": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"EN": {
+				"text": ""
+			},
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"name": "tile.switching.apple",
+			"text": "APPLE",
+			"en": {
+				"text": "APPLE"
+			},
+			"type": "XTXT",
+			"id": "df1e6cc2-201d-4096-d30a-6a2dbd00a4db",
+			"EN": {
+				"text": "APPLE"
+			},
+			"AF": {
+				"text": "APPEL"
+			},
+			"AR": {
+				"text": "تفاحة"
+			},
+			"BG": {
+				"text": "Ябълка"
+			},
+			"ZH": {
+				"text": "苹果"
+			},
+			"ZF": {
+				"text": "蘋果"
+			},
+			"HR": {
+				"text": "JABUKA"
+			},
+			"CS": {
+				"text": "JABLKO"
+			},
+			"DA": {
+				"text": "ÆBLE"
+			},
+			"NL": {
+				"text": "APPEL"
+			},
+			"ET": {
+				"text": "ÕUN"
+			},
+			"FI": {
+				"text": "OMENA"
+			},
+			"FR": {
+				"text": "POMME"
+			},
+			"DE": {
+				"text": "APFEL"
+			},
+			"EL": {
+				"text": "ΜΗΛΟ"
+			},
+			"HE": {
+				"text": "תַפּוּחַ"
+			},
+			"HU": {
+				"text": "ALMA"
+			},
+			"IS": {
+				"text": "EPPLI"
+			},
+			"ID": {
+				"text": "APEL"
+			},
+			"IT": {
+				"text": "MELA"
+			},
+			"JA": {
+				"text": "りんご"
+			},
+			"KO": {
+				"text": "사과"
+			},
+			"LV": {
+				"text": "ĀBOLS"
+			},
+			"LT": {
+				"text": "OBUOLYS"
+			},
+			"MS": {
+				"text": "Epal"
+			},
+			"NO": {
+				"text": "EPLE"
+			},
+			"PL": {
+				"text": "JABŁKO"
+			},
+			"PT": {
+				"text": "MAÇÃ"
+			},
+			"RO": {
+				"text": "MĂR"
+			},
+			"RU": {
+				"text": "ЯБЛОКО"
+			},
+			"SR": {
+				"text": "ЈАБУКА"
+			},
+			"SH": {
+				"text": "ЈАБУКА"
+			},
+			"SK": {
+				"text": "JABLKO"
+			},
+			"SL": {
+				"text": "JABOLKO"
+			},
+			"ES": {
+				"text": "MANZANA"
+			},
+			"SV": {
+				"text": "ÄPPLE"
+			},
+			"TH": {
+				"text": "แอปเปิล"
+			},
+			"TR": {
+				"text": "ELMA"
+			},
+			"UK": {
+				"text": "ЯБЛУКО"
+			},
+			"VI": {
+				"text": "QUẢ TÁO"
+			}
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"name": "tile.switching.getFreeSameDayPhoneDelivery",
+			"text": "Get FREE same-day phone delivery when you join in the T-Life app or online, and get our best phone deals with no trade-in needed.",
+			"en": {
+				"text": "Get FREE same-day phone delivery when you join in the T-Life app or online, and get our best phone deals with no trade-in needed."
+			},
+			"type": "XTXT",
+			"id": "7bcf8989-762e-497f-c8e3-3456b929a5a3",
+			"EN": {
+				"text": "Get FREE same-day phone delivery when you join in the T-Life app or online, and get our best phone deals with no trade-in needed."
+			},
+			"AF": {
+				"text": "Kry GRATIS aflewering op dieselfde dag wanneer jy by die T-Life-app of aanlyn aansluit, en kry ons beste foonaanbiedinge sonder dat jy hoef in te ruil."
+			},
+			"AR": {
+				"text": "احصل على توصيل مجاني للهاتف في نفس اليوم عند الانضمام إلى تطبيق T-Life أو عبر الإنترنت، واحصل على أفضل عروض الهواتف لدينا دون الحاجة إلى الاستبدال."
+			},
+			"BG": {
+				"text": "Получете БЕЗПЛАТНА доставка на телефон в същия ден, когато се регистрирате в приложението T-Life или онлайн, и се възползвайте от нашите най-добри оферти за телефони без необходимост от замяна."
+			},
+			"ZH": {
+				"text": "加入 T-Life 应用程序或在线会员，即可享受免费当日手机送货服务，并可享受我们最优惠的手机价格，无需以旧换新。"
+			},
+			"ZF": {
+				"text": "加入 T-Life 應用程式或線上會員，即可享有免費當日手機送貨服務，並可享有我們最優惠的手機價格，無需以舊換新。"
+			},
+			"HR": {
+				"text": "Ostvarite BESPLATNU dostavu telefona istog dana kada se prijavite u T-Life aplikaciju ili online i iskoristite naše najbolje ponude za telefone bez potrebe za zamjenom."
+			},
+			"CS": {
+				"text": "Získejte ZDARMA doručení telefonu v ten samý den, když se zaregistrujete v aplikaci T-Life nebo online, a využijte naše nejlepší nabídky telefonů bez nutnosti výměny."
+			},
+			"DA": {
+				"text": "Få GRATIS telefonlevering samme dag, når du tilmelder dig i T-Life-appen eller online, og få vores bedste telefontilbud uden behov for indbytning."
+			},
+			"NL": {
+				"text": "Ontvang GRATIS bezorging van uw telefoon op dezelfde dag wanneer u zich aanmeldt via de T-Life-app of online. Bovendien profiteert u van onze beste telefoonaanbiedingen zonder dat u uw telefoon hoeft in te ruilen."
+			},
+			"ET": {
+				"text": "Liitudes T-Life'i äpis või veebis, saad TASUTA samal päeval telefoni kättetoimetamise ja meie parimad telefonipakkumised ilma sisseostmiseta."
+			},
+			"FI": {
+				"text": "Saat ILMAISEN saman päivän toimituksen puhelimeesi liittymällä T-Life-sovelluksessa tai verkossa ja parhaat puhelintarjouksemme ilman vaihtokauppaa."
+			},
+			"FR": {
+				"text": "Bénéficiez d'une livraison de téléphone GRATUITE le jour même en vous inscrivant via l'application T-Life ou en ligne, et profitez de nos meilleures offres de téléphones sans reprise nécessaire."
+			},
+			"DE": {
+				"text": "Sichern Sie sich die KOSTENLOSE Lieferung Ihres Handys am selben Tag, wenn Sie sich über die T-Life App oder online anmelden, und profitieren Sie von unseren besten Handy-Angeboten – ganz ohne Inzahlungnahme Ihres alten Geräts."
+			},
+			"EL": {
+				"text": "Αποκτήστε ΔΩΡΕΑΝ παράδοση τηλεφωνικής παραγγελίας την ίδια ημέρα όταν εγγραφείτε στην εφαρμογή T-Life ή online και επωφεληθείτε από τις καλύτερες προσφορές μας για τηλέφωνα χωρίς να χρειάζεται ανταλλαγή."
+			},
+			"HE": {
+				"text": "קבלו משלוח טלפוני חינם באותו היום כשאתם נרשמים באפליקציית T-Life או באינטרנט, וקבלו את מבצעי הטלפונים הטובים ביותר שלנו ללא צורך בטרייד-אין."
+			},
+			"HU": {
+				"text": "INGYENES aznapi telefonkiszállítást kapsz, ha a T-Life alkalmazásban vagy online csatlakozol, és a legjobb telefonajánlatainkat kapod beszámítás nélkül."
+			},
+			"IS": {
+				"text": "Fáðu ÓKEYPIS símasendingu sama dag þegar þú skráir þig í T-Life appið eða á netinu og fáðu bestu símatilboðin okkar án þess að þurfa að skipta þeim inn."
+			},
+			"ID": {
+				"text": "Dapatkan pengiriman telepon GRATIS di hari yang sama saat Anda bergabung di aplikasi T-Life atau online, dan dapatkan penawaran telepon terbaik kami tanpa perlu tukar tambah."
+			},
+			"IT": {
+				"text": "Ottieni la consegna GRATUITA del telefono in giornata iscrivendoti all'app T-Life o online e ottieni le nostre migliori offerte telefoniche senza dover effettuare alcuna permuta."
+			},
+			"JA": {
+				"text": "T-Life アプリまたはオンラインでご登録いただくと、無料で当日に携帯電話をお届けし、下取りなしで最高の携帯電話の取引を実現します。"
+			},
+			"KO": {
+				"text": "T-Life 앱이나 온라인으로 가입하면 무료로 당일 휴대폰 배송을 받을 수 있으며, 매입 없이도 최고의 휴대폰 할인 혜택을 누릴 수 있습니다."
+			},
+			"LV": {
+				"text": "Saņemiet BEZMAKSAS tālruņa piegādi tajā pašā dienā, reģistrējoties T-Life lietotnē vai tiešsaistē, un izmantojiet mūsu labākos tālruņa piedāvājumus bez nepieciešamības veikt apmaiņu."
+			},
+			"LT": {
+				"text": "Prisiregistruokite „T-Life“ programėlėje arba internetu ir gaukite NEMOKAMĄ telefono pristatymą tą pačią dieną bei geriausius telefono pasiūlymus be jokio keitimo."
+			},
+			"MS": {
+				"text": "Dapatkan penghantaran telefon pada hari yang sama PERCUMA apabila anda menyertai apl T-Life atau dalam talian, dan dapatkan tawaran telefon terbaik kami tanpa perlu tukar beli."
+			},
+			"NO": {
+				"text": "Få GRATIS telefonlevering samme dag når du registrerer deg i T-Life-appen eller på nett, og få våre beste telefontilbud uten innbytte."
+			},
+			"PL": {
+				"text": "Zarejestruj się w aplikacji T-Life lub online i skorzystaj z BEZPŁATNEJ dostawy telefonu tego samego dnia. Oferujemy też najlepsze oferty na telefony bez konieczności oddawania ich w rozliczeniu."
+			},
+			"PT": {
+				"text": "Receba seu celular gratuitamente no mesmo dia ao se cadastrar no aplicativo T-Life ou online, e aproveite nossas melhores ofertas de celulares sem precisar dar o seu antigo como parte do pagamento."
+			},
+			"RO": {
+				"text": "Beneficiază de livrare GRATUITĂ în aceeași zi când te înscrii în aplicația T-Life sau online și profită de cele mai bune oferte de telefonie fără a fi nevoie de schimb."
+			},
+			"RU": {
+				"text": "Получите БЕСПЛАТНУЮ доставку телефона в тот же день при регистрации в приложении T-Life или онлайн, а также воспользуйтесь нашими лучшими предложениями по телефонам без необходимости обмена."
+			},
+			"SR": {
+				"text": "Добијте БЕСПЛАТНУ доставу телефона истог дана када се придружите апликацији T-Life или онлајн и добијте наше најбоље понуде за телефоне без потребе за заменом."
+			},
+			"SH": {
+				"text": "Добијте БЕСПЛАТНУ доставу телефона истог дана када се придружите апликацији T-Life или онлајн и добијте наше најбоље понуде за телефоне без потребе за заменом."
+			},
+			"SK": {
+				"text": "Získajte BEZPLATNÉ doručenie telefónu v ten istý deň, keď sa zaregistrujete v aplikácii T-Life alebo online, a využite naše najlepšie ponuky telefónov bez nutnosti výmeny."
+			},
+			"SL": {
+				"text": "Pridobite BREZPLAČNO dostavo telefona še isti dan, ko se prijavite v aplikaciji T-Life ali na spletu, in izkoristite naše najboljše ponudbe za telefone brez potrebe po menjavi."
+			},
+			"ES": {
+				"text": "Obtén entrega de teléfono GRATIS el mismo día cuando te unas a la aplicación T-Life o en línea, y obtén nuestras mejores ofertas de teléfonos sin necesidad de intercambio."
+			},
+			"SV": {
+				"text": "Få GRATIS telefonleverans samma dag när du registrerar dig i T-Life-appen eller online, och få våra bästa telefonerbjudanden utan inbyte."
+			},
+			"TH": {
+				"text": "รับบริการจัดส่งโทรศัพท์ฟรีภายในวันเดียวกันเมื่อคุณสมัครใช้แอป T-Life หรือออนไลน์ และรับข้อเสนอโทรศัพท์ที่ดีที่สุดของเราโดยไม่ต้องแลกเปลี่ยนเครื่อง"
+			},
+			"TR": {
+				"text": "T-Life uygulamasına veya çevrimiçi üye olduğunuzda ÜCRETSİZ aynı gün telefon teslimatından yararlanın ve takas gerektirmeden en iyi telefon fırsatlarımızdan yararlanın."
+			},
+			"UK": {
+				"text": "Отримайте БЕЗКОШТОВНУ доставку телефону в той самий день, зареєструвавшись у додатку T-Life або онлайн, та отримайте наші найкращі пропозиції на телефони без необхідності обміну."
+			},
+			"VI": {
+				"text": "Nhận giao điện thoại MIỄN PHÍ trong ngày khi bạn tham gia ứng dụng T-Life hoặc trực tuyến và nhận được những ưu đãi điện thoại tốt nhất của chúng tôi mà không cần phải đổi máy."
+			}
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"name": "tile.switching.getFullTerms",
+			"text": "Get full terms",
+			"en": {
+				"text": "Get full terms"
+			},
+			"type": "XTXT",
+			"id": "72c4cebf-69cc-43fd-d9bb-418f226c9056",
+			"EN": {
+				"text": "Get full terms"
+			},
+			"AF": {
+				"text": "Kry volledige terme"
+			},
+			"AR": {
+				"text": "احصل على الشروط الكاملة"
+			},
+			"BG": {
+				"text": "Получете пълните условия"
+			},
+			"ZH": {
+				"text": "获取完整条款"
+			},
+			"ZF": {
+				"text": "取得完整條款"
+			},
+			"HR": {
+				"text": "Preuzmite pune uvjete"
+			},
+			"CS": {
+				"text": "Získejte úplné podmínky"
+			},
+			"DA": {
+				"text": "Få de fulde vilkår"
+			},
+			"NL": {
+				"text": "Ontvang de volledige voorwaarden"
+			},
+			"ET": {
+				"text": "Täielike tingimustega tutvumine"
+			},
+			"FI": {
+				"text": "Hanki täydelliset ehdot"
+			},
+			"FR": {
+				"text": "Consultez les conditions générales complètes"
+			},
+			"DE": {
+				"text": "Die vollständigen Bedingungen finden Sie hier."
+			},
+			"EL": {
+				"text": "Λάβετε τους πλήρεις όρους"
+			},
+			"HE": {
+				"text": "קבל את התנאים המלאים"
+			},
+			"HU": {
+				"text": "Teljes feltételek megtekintése"
+			},
+			"IS": {
+				"text": "Fáðu alla skilmála"
+			},
+			"ID": {
+				"text": "Dapatkan persyaratan lengkapnya"
+			},
+			"IT": {
+				"text": "Ottieni i termini completi"
+			},
+			"JA": {
+				"text": "詳しい利用規約はこちら"
+			},
+			"KO": {
+				"text": "전체 약관을 확인하세요"
+			},
+			"LV": {
+				"text": "Iegūt pilnus noteikumus"
+			},
+			"LT": {
+				"text": "Gauti visas sąlygas"
+			},
+			"MS": {
+				"text": "Dapatkan syarat penuh"
+			},
+			"NO": {
+				"text": "Få fullstendige vilkår"
+			},
+			"PL": {
+				"text": "Uzyskaj pełne warunki"
+			},
+			"PT": {
+				"text": "Consulte os termos completos."
+			},
+			"RO": {
+				"text": "Obțineți termenii și condițiile complete"
+			},
+			"RU": {
+				"text": "Получить полные условия"
+			},
+			"SR": {
+				"text": "Преузмите комплетне услове"
+			},
+			"SH": {
+				"text": "Преузмите комплетне услове"
+			},
+			"SK": {
+				"text": "Získajte úplné podmienky"
+			},
+			"SL": {
+				"text": "Pridobite celotne pogoje"
+			},
+			"ES": {
+				"text": "Obtenga los términos completos"
+			},
+			"SV": {
+				"text": "Få fullständiga villkor"
+			},
+			"TH": {
+				"text": "รับเงื่อนไขฉบับเต็ม"
+			},
+			"TR": {
+				"text": "Tüm şartları alın"
+			},
+			"UK": {
+				"text": "Отримати повні умови"
+			},
+			"VI": {
+				"text": "Nhận đầy đủ các điều khoản"
+			}
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"name": "tile.switching.iphone17OnUs",
+			"text": "Get iPhone 17 On US",
+			"en": {
+				"text": "Get iPhone 17 On US"
+			},
+			"type": "XTXT",
+			"id": "d3eab3e1-9ff7-4d66-c7ca-f18fff3f6805",
+			"EN": {
+				"text": "Get iPhone 17 On US"
+			},
+			"AF": {
+				"text": "Kry iPhone 17 in die VSA"
+			},
+			"AR": {
+				"text": "احصل على iPhone 17 في الولايات المتحدة"
+			},
+			"BG": {
+				"text": "Вземете iPhone 17 в САЩ"
+			},
+			"ZH": {
+				"text": "在美国购买 iPhone 17"
+			},
+			"ZF": {
+				"text": "在美國購買 iPhone 17"
+			},
+			"HR": {
+				"text": "Nabavite iPhone 17 u SAD-u"
+			},
+			"CS": {
+				"text": "Pořiďte si iPhone 17 v USA"
+			},
+			"DA": {
+				"text": "Få iPhone 17 i USA"
+			},
+			"NL": {
+				"text": "Koop iPhone 17 in de VS"
+			},
+			"ET": {
+				"text": "Hankige iPhone 17 USA-st"
+			},
+			"FI": {
+				"text": "Hanki iPhone 17 Yhdysvalloista"
+			},
+			"FR": {
+				"text": "Achetez l'iPhone 17 aux États-Unis"
+			},
+			"DE": {
+				"text": "Hol dir das iPhone 17 in den USA"
+			},
+			"EL": {
+				"text": "Αποκτήστε το iPhone 17 στις ΗΠΑ"
+			},
+			"HE": {
+				"text": "קבלו את האייפון 17 בארה\"ב"
+			},
+			"HU": {
+				"text": "Szerezd meg az iPhone 17-et az USA-ban"
+			},
+			"IS": {
+				"text": "Fáðu iPhone 17 í Bandaríkjunum"
+			},
+			"ID": {
+				"text": "Dapatkan iPhone 17 di AS"
+			},
+			"IT": {
+				"text": "Ottieni iPhone 17 negli Stati Uniti"
+			},
+			"JA": {
+				"text": "iPhone 17を米国で入手"
+			},
+			"KO": {
+				"text": "미국에서 iPhone 17을 받으세요"
+			},
+			"LV": {
+				"text": "Iegādājieties iPhone 17 ASV"
+			},
+			"LT": {
+				"text": "Įsigykite „iPhone 17“ JAV"
+			},
+			"MS": {
+				"text": "Dapatkan iPhone 17 Di AS"
+			},
+			"NO": {
+				"text": "Skaff deg iPhone 17 i USA"
+			},
+			"PL": {
+				"text": "Kup iPhone'a 17 w USA"
+			},
+			"PT": {
+				"text": "Compre o iPhone 17 nos EUA"
+			},
+			"RO": {
+				"text": "Ia iPhone 17 în SUA"
+			},
+			"RU": {
+				"text": "Получите iPhone 17 в США"
+			},
+			"SR": {
+				"text": "Набавите iPhone 17 у САД"
+			},
+			"SH": {
+				"text": "Набавите iPhone 17 у САД"
+			},
+			"SK": {
+				"text": "Získajte iPhone 17 v USA"
+			},
+			"SL": {
+				"text": "Pridobite iPhone 17 v ZDA"
+			},
+			"ES": {
+				"text": "Consigue el iPhone 17 en EE. UU."
+			},
+			"SV": {
+				"text": "Skaffa iPhone 17 i USA"
+			},
+			"TH": {
+				"text": "รับ iPhone 17 ในสหรัฐอเมริกา"
+			},
+			"TR": {
+				"text": "iPhone 17'yi ABD'de Alın"
+			},
+			"UK": {
+				"text": "Придбайте iPhone 17 у США"
+			},
+			"VI": {
+				"text": "Nhận iPhone 17 tại Hoa Kỳ"
+			}
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"name": "tile.switching.iphone4OnUs",
+			"text": "iPhone 17 - Get 4 On Us. Plus, 4 lines for $25/line/mo.",
+			"en": {
+				"text": "iPhone 17 - Get 4 On Us. Plus, 4 lines for $25/line/mo."
+			},
+			"type": "XTXT",
+			"id": "ea77457b-3322-4663-8ac6-6aaf20795068",
+			"EN": {
+				"text": "iPhone 17 - Get 4 On Us. Plus, 4 lines for $25/line/mo."
+			},
+			"AF": {
+				"text": "iPhone 17 - Kry 4 gratis. Plus, 4 lyne vir $25/lyn/maand."
+			},
+			"AR": {
+				"text": "آيفون 17 - احصل على 4 مجاناً. بالإضافة إلى 4 خطوط مقابل 25 دولارًا أمريكيًا شهريًا."
+			},
+			"BG": {
+				"text": "iPhone 17 - Вземете 4 безплатно. Плюс 4 линии за $25/линия/месец."
+			},
+			"ZH": {
+				"text": "iPhone 17 - 买四送一。此外，4 条线路每条线路每月仅需 25 美元。"
+			},
+			"ZF": {
+				"text": "iPhone 17 - 買四送一。此外，4 條線路每條線路每月僅需 25 美元。"
+			},
+			"HR": {
+				"text": "iPhone 17 - Uzmite 4 besplatno. Uz to, 4 linije za 25 USD/linija/mjesečno."
+			},
+			"CS": {
+				"text": "iPhone 17 – Získejte 4 linky zdarma. Navíc 4 linky za 25 dolarů/linku/měsíc."
+			},
+			"DA": {
+				"text": "iPhone 17 - Få 4 gratis. Plus 4 linjer for 25 USD/linje/md."
+			},
+			"NL": {
+				"text": "iPhone 17 - Krijg er 4 cadeau. Plus, 4 lijnen voor $ 25/lijn/maand."
+			},
+			"ET": {
+				"text": "iPhone 17 – 4 telefoni meie kulul. Lisaks 4 liini 25 dollari eest/liin/kuu."
+			},
+			"FI": {
+				"text": "iPhone 17 – Saat 4 puhelua pörssissä. Lisäksi 4 linjaa hintaan 25 $/linja/kk."
+			},
+			"FR": {
+				"text": "iPhone 17 - Obtenez-en 4 gratuitement. De plus, 4 lignes pour 25 $/ligne/mois."
+			},
+			"DE": {
+				"text": "iPhone 17 – 4 Stück gratis. Außerdem 4 Mobilfunkverträge für 25 €/Vertrag/Monat."
+			},
+			"EL": {
+				"text": "iPhone 17 - Αποκτήστε 4 δωρεάν. Επιπλέον, 4 γραμμές για 25$/γραμμή/μήνα."
+			},
+			"HE": {
+				"text": "אייפון 17 - קבלו 4 עלינו. בנוסף, 4 קווים ב-25 דולר לקו לחודש."
+			},
+			"HU": {
+				"text": "iPhone 17 – 4 ingyenes. Plusz 4 vonal 25 dollárért/vonal/hó."
+			},
+			"IS": {
+				"text": "iPhone 17 - Fáðu 4 frá okkur. Auk þess 4 línur fyrir $25/línu/mán."
+			},
+			"ID": {
+				"text": "iPhone 17 - Dapatkan 4 Gratis. Plus, 4 saluran seharga $25/saluran/bulan."
+			},
+			"IT": {
+				"text": "iPhone 17 - Ricevine 4 gratis. In più, 4 linee a $ 25/linea/mese."
+			},
+			"JA": {
+				"text": "iPhone 17 - 4回線無料。さらに4回線で月額25ドル。"
+			},
+			"KO": {
+				"text": "iPhone 17 - 4개 무료. 또한, 4개 회선을 회선당 월 25달러에 이용하세요."
+			},
+			"LV": {
+				"text": "iPhone 17 — saņemiet 4 tālruņus bez maksas. Plus 4 līnijas par 25 USD/līnija/mēn."
+			},
+			"LT": {
+				"text": "„iPhone 17“ – gaukite 4 nemokamai. Be to, 4 linijos už 25 USD/liniją/mėn."
+			},
+			"MS": {
+				"text": "iPhone 17 - Dapatkan 4 Dengan Kami. Selain itu, 4 baris untuk $25/baris/bln."
+			},
+			"NO": {
+				"text": "iPhone 17 – Få 4 på oss. Pluss 4 linjer for 25 dollar/linje/mnd."
+			},
+			"PL": {
+				"text": "iPhone 17 – 4 za darmo. Dodatkowo 4 linie za 25 USD/linię/mies."
+			},
+			"PT": {
+				"text": "iPhone 17 - Leve 4 de graça. Além disso, 4 linhas por US$ 25/linha/mês."
+			},
+			"RO": {
+				"text": "iPhone 17 - Primești 4 gratuit. Plus, 4 linii pentru 25 USD/linie/lună."
+			},
+			"RU": {
+				"text": "iPhone 17 — 4 в подарок. Плюс 4 линии по 25 долларов за линию в месяц."
+			},
+			"SR": {
+				"text": "iPhone 17 - Добијте 4 бесплатно. Плус, 4 линије за 25 долара/линији/мес."
+			},
+			"SH": {
+				"text": "iPhone 17 - Добијте 4 бесплатно. Плус, 4 линије за 25 долара/линији/мес."
+			},
+			"SK": {
+				"text": "iPhone 17 – Získajte 4 linky zadarmo. Navyše, 4 linky za 25 dolárov/linka/mesiac."
+			},
+			"SL": {
+				"text": "iPhone 17 – 4 brezplačno. Plus, 4 linije za 25 USD/linijo/mesec."
+			},
+			"ES": {
+				"text": "iPhone 17: obtén 4 por nuestra cuenta. Además, 4 líneas por $25/línea/mes."
+			},
+			"SV": {
+				"text": "iPhone 17 – Få 4 gratis. Plus, 4 linjer för 25 USD/linje/mån."
+			},
+			"TH": {
+				"text": "iPhone 17 - รับฟรี 4 ซิม แถมฟรี 4 ซิม เพียง 25 ดอลลาร์/ซิม/เดือน"
+			},
+			"TR": {
+				"text": "iPhone 17 - 4'ü bizden. Ayrıca, 4 hat için hat başına aylık 25 ABD doları."
+			},
+			"UK": {
+				"text": "iPhone 17 – Отримайте 4 безкоштовно. Плюс 4 лінії за $25/лінія/міс."
+			},
+			"VI": {
+				"text": "iPhone 17 - Tặng 4 chiếc. Thêm 4 đường dây với giá 25 đô la/đường dây/tháng."
+			}
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"name": "tile.switching.noTradeIn",
+			"text": "No trade-in needed when you bring your number to T-Mobile and add a new line on an Experience Beyond plan.",
+			"en": {
+				"text": "No trade-in needed when you bring your number to T-Mobile and add a new line on an Experience Beyond plan."
+			},
+			"type": "XTXT",
+			"id": "c9e3a46b-7bf4-4c01-9c1d-b5be93d644fe",
+			"EN": {
+				"text": "No trade-in needed when you bring your number to T-Mobile and add a new line on an Experience Beyond plan."
+			},
+			"AF": {
+				"text": "Geen inruiling nodig wanneer jy jou nommer na T-Mobile bring en 'n nuwe lyn by 'n Experience Beyond-plan voeg nie."
+			},
+			"AR": {
+				"text": "لا حاجة للاستبدال عند إحضار رقمك إلى T-Mobile وإضافة خط جديد إلى خطة Experience Beyond."
+			},
+			"BG": {
+				"text": "Не е необходима замяна, когато пренесете номера си в T-Mobile и добавите нова линия към план Experience Beyond."
+			},
+			"ZH": {
+				"text": "将你的号码带到 T-Mobile 并添加一条体验超越套餐的新线路，无需以旧换新。"
+			},
+			"ZF": {
+				"text": "將你的號碼帶到 T-Mobile 並添加一條體驗超越套餐的新線路，無需以舊換新。"
+			},
+			"HR": {
+				"text": "Nije potrebna zamjena broja za novi kada prenesete svoj broj u T-Mobile i dodate novu liniju u Experience Beyond planu."
+			},
+			"CS": {
+				"text": "Pokud si přenesete své číslo k T-Mobile a přidáte novou linku v rámci tarifu Experience Beyond, není potřeba jej vyměnit za nové."
+			},
+			"DA": {
+				"text": "Ingen indbytning nødvendig, når du overfører dit nummer til T-Mobile og tilføjer en ny linje til et Experience Beyond-abonnement."
+			},
+			"NL": {
+				"text": "Er is geen inruil nodig wanneer u uw nummer overzet naar T-Mobile en een nieuwe lijn toevoegt aan een Experience Beyond-abonnement."
+			},
+			"ET": {
+				"text": "Kui toote oma numbri T-Mobile'i ja lisate Experience Beyond paketile uue liini, pole vaja vahetust sisse."
+			},
+			"FI": {
+				"text": "Ei vaihtopalvelua, kun tuot numerosi T-Mobilelle ja lisäät uuden linjan Experience Beyond -sopimukseen."
+			},
+			"FR": {
+				"text": "Aucun échange n'est nécessaire lorsque vous transférez votre numéro chez T-Mobile et ajoutez une nouvelle ligne avec un forfait Experience Beyond."
+			},
+			"DE": {
+				"text": "Kein Umtausch erforderlich, wenn Sie Ihre Rufnummer zu T-Mobile mitnehmen und eine neue Leitung im Rahmen eines Experience Beyond-Tarifs hinzufügen."
+			},
+			"EL": {
+				"text": "Δεν χρειάζεται αλλαγή όταν μεταφέρετε τον αριθμό σας στην T-Mobile και προσθέτετε μια νέα γραμμή σε ένα πρόγραμμα Experience Beyond."
+			},
+			"HE": {
+				"text": "אין צורך בטרייד-אין כשאתם מביאים את המספר שלכם ל-T-Mobile ומוסיפים קו חדש לתוכנית Experience Beyond."
+			},
+			"HU": {
+				"text": "Nincs szükség beszámításra, ha a telefonszámodat a T-Mobile-hoz viszed, és új vonalat adsz hozzá egy Experience Beyond csomaghoz."
+			},
+			"IS": {
+				"text": "Engin þörf á að skipta inn númerinu þegar þú færir númerið þitt til T-Mobile og bætir við nýrri línu í Experience Beyond áætlun."
+			},
+			"ID": {
+				"text": "Tidak perlu tukar tambah jika Anda membawa nomor Anda ke T-Mobile dan menambahkan saluran baru pada paket Experience Beyond."
+			},
+			"IT": {
+				"text": "Non è necessario effettuare alcuna permuta se porti il tuo numero a T-Mobile e aggiungi una nuova linea a un piano Experience Beyond."
+			},
+			"JA": {
+				"text": "T-Mobile に番号を持ち込み、Experience Beyond プランに新しい回線を追加する場合、下取りは必要ありません。"
+			},
+			"KO": {
+				"text": "T-Mobile에 번호를 가져와 Experience Beyond 플랜에 새로운 회선을 추가하는 경우, 트레이드인은 필요하지 않습니다."
+			},
+			"LV": {
+				"text": "Nav nepieciešama maiņa, ja savu numuru nogādājat T-Mobile un pievienojat jaunu līniju Experience Beyond plānā."
+			},
+			"LT": {
+				"text": "Nereikia keistis, kai atnešate savo numerį į „T-Mobile“ ir pridedate naują liniją prie „Experience Beyond“ plano."
+			},
+			"MS": {
+				"text": "Tiada pertukaran masuk diperlukan apabila anda membawa nombor anda ke T-Mobile dan menambah barisan baharu pada pelan Experience Beyond."
+			},
+			"NO": {
+				"text": "Ingen innbytte nødvendig når du overfører nummeret ditt til T-Mobile og legger til en ny linje i et Experience Beyond-abonnement."
+			},
+			"PL": {
+				"text": "Nie musisz dokonywać żadnych zmian, jeśli przeniesiesz swój numer do T-Mobile i dodasz nową linię w ramach planu Experience Beyond."
+			},
+			"PT": {
+				"text": "Não é necessário entregar seu aparelho antigo ao transferir seu número para a T-Mobile e adicionar uma nova linha em um plano Experience Beyond."
+			},
+			"RO": {
+				"text": "Nu este nevoie de schimb atunci când îți aduci numărul la T-Mobile și adaugi o linie nouă la un abonament Experience Beyond."
+			},
+			"RU": {
+				"text": "При подключении номера к T-Mobile и добавлении новой линии в тарифный план Experience Beyond обмен не требуется."
+			},
+			"SR": {
+				"text": "Није потребна замена када пренесете свој број у Т-Мобиле и додате нову линију у оквиру Experience Beyond плана."
+			},
+			"SH": {
+				"text": "Није потребна замена када пренесете свој број у Т-Мобиле и додате нову линију у оквиру Experience Beyond плана."
+			},
+			"SK": {
+				"text": "Pri prenose čísla k T-Mobile a pridaní novej linky v rámci programu Experience Beyond nie je potrebná výmena."
+			},
+			"SL": {
+				"text": "Ko svojo številko prenesete k T-Mobileu in dodate novo linijo v paketu Experience Beyond, zamenjava ni potrebna."
+			},
+			"ES": {
+				"text": "No es necesario realizar ningún intercambio cuando traes tu número a T-Mobile y agregas una nueva línea en un plan Experience Beyond."
+			},
+			"SV": {
+				"text": "Ingen inbytesavgift behövs när du flyttar ditt nummer till T-Mobile och lägger till en ny linje i ett Experience Beyond-abonnemang."
+			},
+			"TH": {
+				"text": "ไม่จำเป็นต้องแลกเปลี่ยนเครื่องเมื่อคุณนำหมายเลขของคุณไปที่ T-Mobile และเพิ่มสายใหม่ในแผน Experience Beyond"
+			},
+			"TR": {
+				"text": "Numaranızı T-Mobile'a taşıdığınızda ve Experience Beyond planına yeni bir hat eklediğinizde takas yapmanıza gerek kalmaz."
+			},
+			"UK": {
+				"text": "Обмін не потрібен, якщо ви переносите свій номер до T-Mobile та додаєте нову лінію до тарифного плану Experience Beyond."
+			},
+			"VI": {
+				"text": "Không cần đổi máy khi bạn mang số điện thoại của mình đến T-Mobile và thêm một dòng mới vào gói Experience Beyond."
+			}
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"text": "Ready to switch to T-Mobile? You’re just 15 minutes to better.",
+			"name": "tile.switching.readyToSwitch",
+			"en": {
+				"text": "Ready to switch to T-Mobile? You’re just 15 minutes to better."
+			},
+			"type": "XTXT",
+			"id": "3f57e0a6-1145-47d4-ce90-9c4c78c0f68f",
+			"EN": {
+				"text": "Ready to switch to T-Mobile? You’re just 15 minutes to better."
+			},
+			"AF": {
+				"text": "Gereed om oor te skakel na T-Mobile? Jy het net 15 minute om beter te word."
+			},
+			"AR": {
+				"text": "هل أنت مستعد للانتقال إلى T-Mobile؟ 15 دقيقة فقط للأفضل."
+			},
+			"BG": {
+				"text": "Готови ли сте да преминете към T-Mobile? Само 15 минути ви остават, за да се справите по-добре."
+			},
+			"ZH": {
+				"text": "准备好转投T-Mobile了吗？只需15分钟，即可享受更优质的服务。"
+			},
+			"ZF": {
+				"text": "準備好轉投T-Mobile了嗎？只需15分鐘，即可享有更優質的服務。"
+			},
+			"HR": {
+				"text": "Spremni za prelazak na T-Mobile? Samo ste 15 minuta udaljeni od boljeg."
+			},
+			"CS": {
+				"text": "Jste připraveni přejít na T-Mobile? Zbývá vám jen 15 minut k lepšímu."
+			},
+			"DA": {
+				"text": "Klar til at skifte til T-Mobile? Du er kun 15 minutter til at blive bedre."
+			},
+			"NL": {
+				"text": "Klaar om over te stappen naar T-Mobile? Je hebt nog maar 15 minuten nodig."
+			},
+			"ET": {
+				"text": "Kas oled valmis T-Mobile'ile üle minema? Sul on vaid 15 minutit parema tulemuseni."
+			},
+			"FI": {
+				"text": "Oletko valmis vaihtamaan T-Mobileen? Olet vain 15 minuuttia parempiin palveluihin."
+			},
+			"FR": {
+				"text": "Prêt à passer chez T-Mobile ? Il ne vous reste que 15 minutes pour profiter d’une meilleure expérience."
+			},
+			"DE": {
+				"text": "Bereit für den Wechsel zu T-Mobile? In nur 15 Minuten sind Sie besser dran."
+			},
+			"EL": {
+				"text": "Είστε έτοιμοι να μεταβείτε στην T-Mobile; Είστε μόλις 15 λεπτά για να γίνετε καλύτεροι."
+			},
+			"HE": {
+				"text": "מוכנים לעבור ל-T-Mobile? נותרו לכם רק 15 דקות עד להשתפר."
+			},
+			"HU": {
+				"text": "Készen állsz a T-Mobile-ra váltani? Már csak 15 perced van a jobb szolgáltatásra."
+			},
+			"IS": {
+				"text": "Tilbúinn/n að skipta yfir í T-Mobile? Þú ert bara 15 mínútum í að bæta þig."
+			},
+			"ID": {
+				"text": "Siap beralih ke T-Mobile? Hanya 15 menit lagi menuju yang lebih baik."
+			},
+			"IT": {
+				"text": "Pronto a passare a T-Mobile? Bastano solo 15 minuti per migliorare."
+			},
+			"JA": {
+				"text": "T-Mobileへの乗り換え準備はできましたか？あと15分で、もっと良い環境が手に入ります。"
+			},
+			"KO": {
+				"text": "T-Mobile로 전환할 준비가 되셨나요? 15분만 투자하면 더 나은 서비스를 받으실 수 있습니다."
+			},
+			"LV": {
+				"text": "Vai esat gatavs pāriet uz T-Mobile? Jums ir tikai 15 minūtes, lai kļūtu labākam."
+			},
+			"LT": {
+				"text": "Pasiruošę pereiti prie „T-Mobile“? Jums tereikia 15 minučių, kad pagerintumėte savo paslaugų kokybę."
+			},
+			"MS": {
+				"text": "Bersedia untuk bertukar kepada T-Mobile? Anda hanya 15 minit untuk menjadi lebih baik."
+			},
+			"NO": {
+				"text": "Klar til å bytte til T-Mobile? Du har bare 15 minutter igjen til det blir bedre."
+			},
+			"PL": {
+				"text": "Gotowy na przejście do T-Mobile? Tylko 15 minut dzieli Cię od lepszych warunków."
+			},
+			"PT": {
+				"text": "Pronto para mudar para a T-Mobile? Você está a apenas 15 minutos de uma experiência melhor."
+			},
+			"RO": {
+				"text": "Ești gata să treci la T-Mobile? Mai ai la doar 15 minute să faci un serviciu mai bun."
+			},
+			"RU": {
+				"text": "Готовы перейти на T-Mobile? Всего 15 минут — и вы станете лучше."
+			},
+			"SR": {
+				"text": "Спремни да пређете на Т-Мобиле? Само 15 минута вам је потребно да будете бољи."
+			},
+			"SH": {
+				"text": "Спремни да пређете на Т-Мобиле? Само 15 минута вам је потребно да будете бољи."
+			},
+			"SK": {
+				"text": "Ste pripravení prejsť na T-Mobile? Stačí vám už len 15 minút na zlepšenie."
+			},
+			"SL": {
+				"text": "Ste pripravljeni preklopiti na T-Mobile? Samo še 15 minut vas loči od boljšega načina življenja."
+			},
+			"ES": {
+				"text": "¿Listo para cambiarte a T-Mobile? Estás a solo 15 minutos de mejorar."
+			},
+			"SV": {
+				"text": "Redo att byta till T-Mobile? Du har bara 15 minuter kvar till bättre."
+			},
+			"TH": {
+				"text": "พร้อมจะเปลี่ยนมาใช้ T-Mobile แล้วหรือยัง? เหลือเวลาอีกเพียง 15 นาทีเท่านั้น"
+			},
+			"TR": {
+				"text": "T-Mobile'a geçmeye hazır mısınız? Daha iyisine ulaşmak için sadece 15 dakikanız var."
+			},
+			"UK": {
+				"text": "Готові перейти на T-Mobile? Вам потрібно лише 15 хвилин, щоб покращити ситуацію."
+			},
+			"VI": {
+				"text": "Bạn đã sẵn sàng chuyển sang T-Mobile chưa? Chỉ mất 15 phút để cải thiện."
+			}
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"name": "tile.switching.startYourSwitch",
+			"text": "Start your switch",
+			"en": {
+				"text": "Start your switch"
+			},
+			"type": "XTXT",
+			"id": "26db0e95-a9f2-4a27-e88e-14336b98e5f0"
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"name": "tile.switching.switchIn15Min",
+			"text": "SWITCH IN 15 MINUTES",
+			"en": {
+				"text": "SWITCH IN 15 MINUTES"
+			},
+			"type": "XTXT",
+			"id": "301a78c1-b805-4449-f2a6-daf629cc39af",
+			"EN": {
+				"text": "SWITCH IN 15 MINUTES"
+			},
+			"AF": {
+				"text": "SKAKEL OOR 15 MINUTE"
+			},
+			"AR": {
+				"text": "التبديل في 15 دقيقة"
+			},
+			"BG": {
+				"text": "ПРЕВКЛЮЧЕТЕ ЗА 15 МИНУТИ"
+			},
+			"ZH": {
+				"text": "15分钟内切换"
+			},
+			"ZF": {
+				"text": "15分鐘內切換"
+			},
+			"HR": {
+				"text": "PREBACI SE ZA 15 MINUTA"
+			},
+			"CS": {
+				"text": "PŘEPNĚTE ZA 15 MINUT"
+			},
+			"DA": {
+				"text": "SKIFT PÅ 15 MINUTTER"
+			},
+			"NL": {
+				"text": "OVERSCHAKELEN IN 15 MINUTEN"
+			},
+			"ET": {
+				"text": "LÜLITA 15 MINUTI PÄRAST"
+			},
+			"FI": {
+				"text": "VAIHDA 15 MINUUTISSA"
+			},
+			"FR": {
+				"text": "CHANGEMENT DANS 15 MINUTES"
+			},
+			"DE": {
+				"text": "Umstellung in 15 Minuten"
+			},
+			"EL": {
+				"text": "ΑΛΛΑΓΗ ΣΕ 15 ΛΕΠΤΑ"
+			},
+			"HE": {
+				"text": "החלפה תוך 15 דקות"
+			},
+			"HU": {
+				"text": "VÁLTS 15 PERC ALATT"
+			},
+			"IS": {
+				"text": "SKIPTIÐ Á 15 MÍNÚTUM"
+			},
+			"ID": {
+				"text": "BERPINDAH DALAM 15 MENIT"
+			},
+			"IT": {
+				"text": "PASSA TRA 15 MINUTI"
+			},
+			"JA": {
+				"text": "15分で切り替え"
+			},
+			"KO": {
+				"text": "15분 안에 전환하세요"
+			},
+			"LV": {
+				"text": "PĀRSLĒDZIES 15 MINŪŠU LAIKĀ"
+			},
+			"LT": {
+				"text": "PERJUNKITE PER 15 MINUČIŲ"
+			},
+			"MS": {
+				"text": "TUKAR DALAM 15 MINIT"
+			},
+			"NO": {
+				"text": "BYTT PÅ 15 MINUTTER"
+			},
+			"PL": {
+				"text": "PRZEŁĄCZ SIĘ W 15 MINUT"
+			},
+			"PT": {
+				"text": "TROCA EM 15 MINUTOS"
+			},
+			"RO": {
+				"text": "SCHIMBĂ ÎN 15 MINUTE"
+			},
+			"RU": {
+				"text": "ПЕРЕКЛЮЧЕНИЕ ЗА 15 МИНУТ"
+			},
+			"SR": {
+				"text": "ПРЕБАЦИ СЕ ЗА 15 МИНУТА"
+			},
+			"SH": {
+				"text": "ПРЕБАЦИ СЕ ЗА 15 МИНУТА"
+			},
+			"SK": {
+				"text": "PREPNITE ZA 15 MINÚT"
+			},
+			"SL": {
+				"text": "PREKLOPITE V 15 MINUTAH"
+			},
+			"ES": {
+				"text": "CAMBIA EN 15 MINUTOS"
+			},
+			"SV": {
+				"text": "BYT PÅ 15 MINUTER"
+			},
+			"TH": {
+				"text": "เปลี่ยนภายใน 15 นาที"
+			},
+			"TR": {
+				"text": "15 DAKİKA İÇİNDE DEĞİŞİM"
+			},
+			"UK": {
+				"text": "ПЕРЕМИКАЙТЕСЯ ЗА 15 ХВИЛИН"
+			},
+			"VI": {
+				"text": "CHUYỂN ĐỔI TRONG 15 PHÚT"
+			}
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"text": "When you trade in four eligible phones and add four new qualifying lines on our Essentials 4 line offer.",
+			"name": "tile.switching.tradeInFour",
+			"en": {
+				"text": "When you trade in four eligible phones and add four new qualifying lines on our Essentials 4 line offer."
+			},
+			"type": "XTXT",
+			"id": "27f19615-ea70-4ad1-bcc0-fb1591d1d13a",
+			"AF": {
+				"text": "Wanneer jy vier kwalifiserende fone inruil en vier nuwe kwalifiserende lyne by ons Essentials 4-lyn-aanbod voeg."
+			},
+			"AR": {
+				"text": "عندما تقوم باستبدال أربعة هواتف مؤهلة وإضافة أربعة خطوط مؤهلة جديدة إلى عرض خط Essentials 4 الخاص بنا."
+			},
+			"BG": {
+				"text": "Когато замените четири отговарящи на условията телефона и добавите четири нови отговарящи на условията линии към нашата оферта Essentials 4 line."
+			},
+			"CS": {
+				"text": "Když vyměníte čtyři vybrané telefony a přidáte čtyři nové vybrané řady v rámci naší nabídky Essentials 4 line."
+			},
+			"DA": {
+				"text": "Når du bytter fire kvalificerede telefoner og tilføjer fire nye kvalificerende linjer til vores Essentials 4-linjetilbud."
+			},
+			"DE": {
+				"text": "Wenn Sie vier berechtigte Handys in Zahlung geben und vier neue, qualifizierende Verträge im Rahmen unseres Essentials 4-Vertrags abschließen."
+			},
+			"EL": {
+				"text": "Όταν ανταλλάσσετε τέσσερα επιλέξιμα τηλέφωνα και προσθέτετε τέσσερις νέες επιλέξιμες γραμμές στην προσφορά Essentials 4 γραμμών."
+			},
+			"EN": {
+				"text": "When you trade in four eligible phones and add four new qualifying lines on our Essentials 4 line offer."
+			},
+			"ES": {
+				"text": "Cuando intercambias cuatro teléfonos elegibles y agregas cuatro nuevas líneas calificadas a nuestra oferta de línea Essentials 4."
+			},
+			"ET": {
+				"text": "Kui vahetate meie Essentials 4 liini pakkumisega neli sobivat telefoni ja lisate neli uut sobivat liini."
+			},
+			"FI": {
+				"text": "Kun vaihdat neljä oikeuttavaa puhelinta ja lisäät neljä uutta oikeuttavaa puhelinlinjaa Essentials 4 -puhelinlinjatarjoukseemme."
+			},
+			"FR": {
+				"text": "Lorsque vous échangez quatre téléphones admissibles et ajoutez quatre nouvelles lignes admissibles à notre offre Essentials 4 lignes."
+			},
+			"HE": {
+				"text": "כשאתם מחליפים ארבעה טלפונים זכאים ומוסיפים ארבעה קווים חדשים זכאים להצעת 4 הקווים של Essentials שלנו."
+			},
+			"HR": {
+				"text": "Kada zamijenite četiri telefona koji ispunjavaju uvjete i dodate četiri nove linije koje ispunjavaju uvjete u našoj ponudi Essentials 4 line."
+			},
+			"HU": {
+				"text": "Amikor négy jogosult telefont becserél, és négy új jogosult vonalat ad hozzá az Essentials 4 vonal ajánlatunk keretében."
+			},
+			"ID": {
+				"text": "Saat Anda menukarkan empat ponsel yang memenuhi syarat dan menambahkan empat lini baru yang memenuhi syarat pada penawaran lini Essentials 4 kami."
+			},
+			"IS": {
+				"text": "Þegar þú skiptir inn fjórum gjaldgengum símum og bætir við fjórum nýjum gjaldgengum línum í Essentials 4 línu tilboðinu okkar."
+			},
+			"IT": {
+				"text": "Quando permuti quattro telefoni idonei e aggiungi quattro nuove linee qualificanti alla nostra offerta Essentials 4."
+			},
+			"JA": {
+				"text": "対象となる携帯電話 4 台を下取りに出すと、Essentials 4 回線オファーに新しい対象回線が 4 つ追加されます。"
+			},
+			"KO": {
+				"text": "4개의 적격 휴대폰을 반납하고 Essentials 4 라인 혜택에 새로운 4개의 적격 라인을 추가하면"
+			},
+			"LT": {
+				"text": "Kai iškeisite keturis tinkamus telefonus ir pridėsite keturias naujas tinkamas linijas pagal mūsų „Essentials 4 line“ pasiūlymą."
+			},
+			"LV": {
+				"text": "Kad mūsu Essentials 4 līniju piedāvājumā iemainīsiet četrus atbilstošus tālruņus un pievienosiet četras jaunas atbilstošas līnijas."
+			},
+			"MS": {
+				"text": "Apabila anda berdagang dalam empat telefon yang layak dan menambah empat talian kelayakan baharu pada tawaran talian Essentials 4 kami."
+			},
+			"NL": {
+				"text": "Wanneer u vier in aanmerking komende telefoons inruilt en vier nieuwe, in aanmerking komende lijnen toevoegt aan ons Essentials 4-lijnaanbod."
+			},
+			"NO": {
+				"text": "Når du bytter inn fire kvalifiserte telefoner og legger til fire nye kvalifiserte linjer i vårt Essentials 4-linjetilbud."
+			},
+			"PL": {
+				"text": "Gdy oddasz cztery kwalifikujące się telefony i dodasz cztery nowe kwalifikujące się linie do naszej oferty Essentials 4."
+			},
+			"PT": {
+				"text": "Ao trocar quatro telefones elegíveis e adicionar quatro novas linhas qualificadas à nossa oferta Essentials de 4 linhas."
+			},
+			"RO": {
+				"text": "Când oferiți la schimb patru telefoane eligibile și adăugați patru linii eligibile noi la oferta noastră Essentials de 4 linii."
+			},
+			"RU": {
+				"text": "При сдаче в обмен четырех соответствующих требованиям телефонов и добавлении четырех новых квалификационных линий в наше предложение Essentials 4 line."
+			},
+			"ZH": {
+				"text": "当您以旧换新四部符合条件的手机，并在我们的 Essentials 4 线套餐中添加四条新的合格线路时。"
+			},
+			"ZF": {
+				"text": "當您以舊換新四部符合條件的手機，並在我們的 Essentials 4 線套餐中添加四條新的合格線路時。"
+			},
+			"SR": {
+				"text": "Када замените четири телефона која испуњавају услове и додате четири нове линије које испуњавају услове у нашој понуди Essentials 4 линије."
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": "Keď vymeníte štyri oprávnené telefóny a pridáte štyri nové oprávnené rady v rámci našej ponuky Essentials 4 line."
+			},
+			"SL": {
+				"text": "Ko zamenjate štiri upravičene telefone in dodate štiri nove upravičene linije v naši ponudbi Essentials 4 line."
+			},
+			"SV": {
+				"text": "När du byter in fyra kvalificerade telefoner och lägger till fyra nya kvalificerade linjer i vårt Essentials 4-linjerserbjudande."
+			},
+			"TH": {
+				"text": "เมื่อคุณนำโทรศัพท์ที่เข้าเงื่อนไข 4 เครื่องมาแลก และเพิ่มสายผลิตภัณฑ์ใหม่ที่เข้าเงื่อนไข 4 สายในข้อเสนอ Essentials 4 line ของเรา"
+			},
+			"TR": {
+				"text": "Dört uygun telefonu takas edip Essentials 4 hat teklifimize dört yeni uygun hat eklediğinizde."
+			},
+			"UK": {
+				"text": "Коли ви обмінюєте чотири відповідні телефони та додаєте чотири нові відповідні лінійки до нашої пропозиції Essentials 4 line."
+			},
+			"VI": {
+				"text": "Khi bạn đổi bốn điện thoại đủ điều kiện và thêm bốn đường dây đủ điều kiện mới vào gói cước Essentials 4 đường dây của chúng tôi."
+			}
+		},
+		{
+			"parent": "tile.switching",
+			"parentId": "9ef623b6-5702-45b3-d2bd-7e604756ddf1",
+			"name": "tile.switching.via24MonthlyBill",
+			"text": "Via 24 monthly bill credits. If you cancel entire account before receiving 24 credits, credits stop and balance on required finance agreement is due. Bill credits end if you pay off device early. For well-qualified customers; plus tax & $35 device connection charge.",
+			"en": {
+				"text": "Via 24 monthly bill credits. If you cancel entire account before receiving 24 credits, credits stop and balance on required finance agreement is due. Bill credits end if you pay off device early. For well-qualified customers; plus tax & $35 device connection charge."
+			},
+			"type": "XTXT",
+			"id": "ff2b835f-f9a9-4a31-ad1a-577642f4c970",
+			"EN": {
+				"text": "Via 24 monthly bill credits. If you cancel entire account before receiving 24 credits, credits stop and balance on required finance agreement is due. Bill credits end if you pay off device early. For well-qualified customers; plus tax & $35 device connection charge."
+			},
+			"AF": {
+				"text": "Via 24 maandelikse rekeningkrediete. Indien u die hele rekening kanselleer voordat u 24 krediete ontvang, stop die krediete en die balans op die vereiste finansieringsooreenkoms is betaalbaar. Rekeningkrediete eindig indien u die toestel vroeg afbetaal. Vir goed gekwalifiseerde kliënte; plus belasting en 'n toestelverbindingsfooi van $35."
+			},
+			"AR": {
+				"text": "عبر رصيد فواتير شهري لمدة ٢٤ شهرًا. في حال إلغاء حسابك بالكامل قبل استلام ٢٤ رصيدًا، يتوقف الرصيد ويصبح الرصيد المتبقي في اتفاقية التمويل مستحقًا. ينتهي رصيد الفواتير في حال سداد قيمة الجهاز مبكرًا. للعملاء المؤهلين، يُضاف إلى ذلك الضريبة ورسوم توصيل الجهاز البالغة ٣٥ دولارًا أمريكيًا."
+			},
+			"BG": {
+				"text": "Чрез 24 месечни кредита за сметка. Ако прекратите целия акаунт, преди да получите 24 кредита, кредитите спират и се изплаща остатъкът по необходимото финансово споразумение. Кредитите за сметка се прекратяват, ако изплатите устройството предсрочно. За клиенти с добри кредитни характеристики; плюс данък и такса за свързване на устройството от $35."
+			},
+			"ZH": {
+				"text": "通过24个月的账单抵扣。如果您在收到24个月抵扣前取消整个账户，抵扣将停止，您需要支付剩余的分期付款协议款项。如果您提前付清设备款项，账单抵扣也将终止。适用于符合条件的客户；另需支付税费和35美元的设备连接费。"
+			},
+			"ZF": {
+				"text": "透過24個月的帳單抵扣。如果您在收到24個月抵扣前取消整個帳戶，抵扣將停止，您需要支付剩餘的分期付款協議款項。若您提前付清設備款項，帳單抵扣也會終止。此優惠適用於符合資格的客戶；另需支付稅金和35美元的設備連接費。"
+			},
+			"HR": {
+				"text": "Putem 24 mjesečnih kredita na računu. Ako otkažete cijeli račun prije nego što primite 24 kredita, krediti se prestaju isplaćivati i dospijeva ostatak potrebnog ugovora o financiranju. Krediti na računu prestaju ako prijevremeno otplatite uređaj. Za korisnike s dobrim kreditnim rejtingom; plus porez i naknada za spajanje uređaja od 35 USD."
+			},
+			"CS": {
+				"text": "Prostřednictvím 24 měsíčních kreditů. Pokud zrušíte celý účet před obdržením 24 kreditů, kredity se zastaví a je splatná celá částka dle požadované finanční smlouvy. Kredity zaniknou, pokud zařízení splatíte předčasně. Pro zákazníky s dobrou účastí; plus daň a poplatek za připojení zařízení ve výši 35 USD."
+			},
+			"DA": {
+				"text": "Via 24 månedlige fakturakreditter. Hvis du annullerer hele kontoen, før du modtager 24 kreditter, stopper kreditterne, og restbeløbet på den krævede finansieringsaftale forfalder. Fakturakreditterne ophører, hvis du betaler enheden før tid. For velkvalificerede kunder; plus moms og et tilslutningsgebyr på 35 USD for enheden."
+			},
+			"NL": {
+				"text": "Via 24 maandelijkse factuurtegoeden. Als u uw volledige account opzegt voordat u 24 tegoeden heeft ontvangen, stopt de betaling en moet het saldo van de vereiste financieringsovereenkomst worden betaald. De factuurtegoeden eindigen als u het apparaat vervroegd aflost. Voor gekwalificeerde klanten: plus belasting en $ 35 aansluitkosten voor het apparaat."
+			},
+			"ET": {
+				"text": "24 igakuise arve krediidi kaudu. Kui tühistate kogu konto enne 24 krediidi laekumist, peatatakse krediit ja nõutava finantseerimislepingu jääk kuulub tasumisele. Arve krediidid peatatakse, kui maksate seadme ennetähtaegselt ära. Heade tingimustega klientidele; lisanduvad maksud ja 35 dollari suurune seadme ühendamistasu."
+			},
+			"FI": {
+				"text": "24 kuukausittaisen laskuhyvityksen kautta. Jos peruutat koko tilin ennen 24 hyvityksen vastaanottamista, hyvitykset pysähtyvät ja vaaditun rahoitussopimuksen saldo erääntyy. Laskuhyvitykset loppuvat, jos maksat laitteen ennenaikaisesti. Hyvämaineisille asiakkaille; lisäksi verot ja 35 dollarin laitteen kytkentämaksu."
+			},
+			"FR": {
+				"text": "Bénéficiez de 24 crédits mensuels sur votre facture. Si vous résiliez votre compte avant d'avoir reçu les 24 crédits, ces derniers seront interrompus et le solde de votre contrat de financement sera exigible. Les crédits cessent également si vous remboursez votre appareil par anticipation. Offre réservée aux clients admissibles ; taxes et frais de connexion de 35 $ en sus."
+			},
+			"DE": {
+				"text": "Die Gutschrift erfolgt in 24 monatlichen Raten. Kündigen Sie Ihr Konto vor Erhalt der 24 Gutschriften, werden keine weiteren Gutschriften mehr gewährt und der Restbetrag des Finanzierungsvertrags ist fällig. Die Gutschriften enden, wenn Sie das Gerät vorzeitig abbezahlen. Gilt für Kunden mit guter Bonität; zzgl. Steuern und 35 € Anschlussgebühr."
+			},
+			"EL": {
+				"text": "Μέσω 24 μηνιαίων πιστώσεων λογαριασμού. Εάν ακυρώσετε ολόκληρο τον λογαριασμό πριν λάβετε 24 πιστώσεις, οι πιστώσεις σταματούν και οφείλεται το υπόλοιπο της απαιτούμενης συμφωνίας χρηματοδότησης. Οι πιστώσεις λογαριασμού λήγουν εάν εξοφλήσετε τη συσκευή πρόωρα. Για πελάτες με τα κατάλληλα προσόντα, συν φόρος και χρέωση σύνδεσης συσκευής 35 $."
+			},
+			"HE": {
+				"text": "באמצעות 24 זיכויים חודשיים. אם תבטלו את כל החשבון לפני קבלת 24 זיכויים, הזיכויים יפסקו והיתרה בהסכם המימון הנדרש תחול. זיכויי החשבון יסתיימו אם תשלמו את המכשיר מוקדם מהצפוי. ללקוחות בעלי ניסיון טוב; בתוספת מס ועמלת חיבור למכשיר בסך 35 דולר."
+			},
+			"HU": {
+				"text": "24 havi számlajóváíráson keresztül. Ha a teljes fiókot lemondja a 24 kredit kézhezvétele előtt, a jóváírások leállnak, és a szükséges finanszírozási megállapodás szerinti egyenleg esedékessé válik. A számlajóváírások megszűnnek, ha a készüléket korábban kifizeti. Jól minősített ügyfelek számára; plusz adó és 35 dolláros készülékcsatlakozási díj."
+			},
+			"IS": {
+				"text": "Með 24 mánaðarlegum reikningsfærslum. Ef þú hættir við allan reikninginn áður en þú færð 24 færslur, stöðvast færslurnar og eftirstöðvar á nauðsynlegum fjármögnunarsamningi eru gjaldfallnar. Reikningsfærslur falla niður ef þú greiðir tækið fyrr. Fyrir vel hæfa viðskiptavini; auk skatts og 35 dollara tengingargjalds fyrir tækið."
+			},
+			"ID": {
+				"text": "Melalui 24 kredit tagihan bulanan. Jika Anda membatalkan seluruh akun sebelum menerima 24 kredit, kredit akan berhenti dan saldo pada perjanjian pembiayaan yang diperlukan akan jatuh tempo. Kredit tagihan akan berakhir jika Anda melunasi perangkat lebih awal. Untuk pelanggan yang memenuhi syarat; ditambah pajak & biaya koneksi perangkat sebesar $35."
+			},
+			"IT": {
+				"text": "Tramite 24 accrediti mensili. Se annulli l'intero account prima di aver ricevuto 24 accrediti, gli accrediti si interrompono e il saldo del contratto di finanziamento richiesto è dovuto. Gli accrediti terminano se paghi anticipatamente il dispositivo. Per clienti qualificati; più tasse e $35 di costo di connessione del dispositivo."
+			},
+			"JA": {
+				"text": "24ヶ月分の請求クレジットによるお支払いとなります。24ヶ月分のクレジットを受け取る前にアカウント全体を解約された場合、クレジットのご利用は停止され、必要なファイナンス契約の残高がお支払い期限となります。デバイスを早期にお支払いいただいた場合、請求クレジットは終了します。条件を満たすお客様の場合、消費税と35ドルのデバイス接続料が別途かかります。"
+			},
+			"KO": {
+				"text": "24개월 청구서 크레딧을 통해 제공됩니다. 24 크레딧을 받기 전에 전체 계정을 해지하면 크레딧이 중단되고 필요한 금융 계약에 따라 잔액이 청구됩니다. 기기 대금을 조기에 납부하면 청구서 크레딧이 종료됩니다. 자격 요건을 충족하는 고객에게는 세금 및 35달러의 기기 연결 요금이 부과됩니다."
+			},
+			"LV": {
+				"text": "Ar 24 ikmēneša rēķinu kredītiem. Ja atceļat visu kontu pirms 24 kredītu saņemšanas, kredītu izsniegšana tiek pārtraukta un jāatmaksā nepieciešamā finanšu līguma atlikums. Rēķinu kredīti tiek pārtraukti, ja priekšlaicīgi apmaksājat ierīci. Labi kvalificētiem klientiem; plus nodoklis un 35 USD ierīces pieslēguma maksa."
+			},
+			"LT": {
+				"text": "24 mėnesiniai sąskaitų kreditai. Jei nutraukiate visą paskyrą anksčiau nei gaunate 24 kreditus, kreditai sustabdomi ir reikiama finansavimo sutarties likutis turi būti sumokėtas. Sąskaitų kreditai nustoja galioti, jei anksčiau laiko sumokate už įrenginį. Tinkamai apmokėtiems klientams; plius mokesčiai ir 35 USD įrenginio prijungimo mokestis."
+			},
+			"MS": {
+				"text": "Melalui 24 kredit bil bulanan. Jika anda membatalkan keseluruhan akaun sebelum menerima 24 kredit, kredit berhenti dan baki pada perjanjian kewangan yang diperlukan perlu dibayar. Kredit bil tamat jika anda membayar peranti lebih awal. Untuk pelanggan yang berkelayakan; ditambah cukai & caj sambungan peranti $35."
+			},
+			"NO": {
+				"text": "Via 24 månedlige fakturakreditter. Hvis du kansellerer hele kontoen før du mottar 24 kreditter, stopper kredittene og saldoen på den nødvendige finansieringsavtalen forfaller. Fakturakredittene opphører hvis du betaler ned enheten tidlig. For velkvalifiserte kunder; pluss skatt og 35 dollar i enhetstilkoblingsgebyr."
+			},
+			"PL": {
+				"text": "Za pośrednictwem 24 miesięcznych kredytów na rachunki. Jeśli anulujesz całe konto przed otrzymaniem 24 kredytów, kredyty przestaną obowiązywać, a saldo wymaganej umowy finansowej będzie wymagalne. Kredyty na rachunki wygasają po wcześniejszej spłacie urządzenia. Dla klientów spełniających kryteria; plus podatek i opłata za podłączenie urządzenia w wysokości 35 USD."
+			},
+			"PT": {
+				"text": "Através de 24 créditos mensais na fatura. Se você cancelar a conta inteira antes de receber os 24 créditos, os créditos serão interrompidos e o saldo do contrato de financiamento deverá ser pago. Os créditos na fatura também serão cancelados se você quitar o aparelho antecipadamente. Para clientes com bom histórico de crédito; mais impostos e taxa de conexão do aparelho de US$ 35."
+			},
+			"RO": {
+				"text": "Prin intermediul a 24 de credite lunare pe factură. Dacă anulați întregul cont înainte de a primi 24 de credite, creditele se opresc și soldul conform acordului de finanțare necesar rămâne scadent. Creditele pe factură se termină dacă achitați dispozitivul mai devreme. Pentru clienții bine calificați; plus taxe și o taxă de conectare a dispozitivului de 35 USD."
+			},
+			"RU": {
+				"text": "В виде 24 ежемесячных кредитов на счёт. Если вы полностью погасите счёт до получения 24 кредитов, начисление кредитов прекратится, и будет выплачен остаток по соглашению о финансировании. Кредиты на счёт аннулируются, если вы досрочно погасите задолженность по устройству. Для клиентов, соответствующих требованиям: плюс налог и плата за подключение устройства в размере 35 долларов США."
+			},
+			"SR": {
+				"text": "Путем 24 месечна кредита на рачуну. Ако откажете цео налог пре него што примите 24 кредита, кредити престају да важе и доспева дуг по потребном уговору о финансирању. Кредит на рачуну престаје да важи ако превремено отплатите уређај. За кориснике са добрим кредитним рејтингом; плус порез и накнада за повезивање уређаја од 35 долара."
+			},
+			"SH": {
+				"text": "Путем 24 месечна кредита на рачуну. Ако откажете цео налог пре него што примите 24 кредита, кредити престају да важе и доспева дуг по потребном уговору о финансирању. Кредит на рачуну престаје да важи ако превремено отплатите уређај. За кориснике са добрим кредитним рејтингом; плус порез и накнада за повезивање уређаја од 35 долара."
+			},
+			"SK": {
+				"text": "Prostredníctvom 24 mesačných kreditov. Ak zrušíte celý účet pred získaním 24 kreditov, kredity sa zastavia a bude splatný zostatok podľa požadovanej finančnej zmluvy. Kredity sa zastavia, ak zariadenie splatíte predčasne. Pre zákazníkov s dobrou úrovňou platnosti; plus daň a poplatok za pripojenie zariadenia vo výške 35 USD."
+			},
+			"SL": {
+				"text": "Prek 24 mesečnih dobropisov. Če prekličete celoten račun, preden prejmete 24 dobropisov, se dobropisi ustavijo in zapade preostanek zahtevane finančne pogodbe. Dobropisi se ustavijo, če napravo predčasno poplačate. Za stranke z dobrimi pogoji; plus davek in 35 USD stroškov povezave naprave."
+			},
+			"ES": {
+				"text": "Mediante 24 créditos mensuales en la factura. Si cancela la cuenta completa antes de recibir los 24 créditos, estos se suspenden y deberá abonar el saldo del contrato de financiamiento requerido. Los créditos en la factura finalizan si cancela el dispositivo anticipadamente. Para clientes que cumplen los requisitos: más impuestos y un cargo de conexión de $35."
+			},
+			"SV": {
+				"text": "Via 24 månatliga krediter. Om du avslutar hela kontot innan du får 24 krediter, upphör krediterna och saldot på obligatoriskt finansieringsavtal förfaller. Krediterna upphör om du betalar av enheten i förtid. För välkvalificerade kunder; plus moms och 35 USD i enhetsanslutningsavgift."
+			},
+			"TH": {
+				"text": "ผ่านเครดิตบิลรายเดือน 24 เครดิต หากคุณยกเลิกบัญชีทั้งหมดก่อนได้รับเครดิตครบ 24 เครดิตจะถูกระงับและยอดคงเหลือในสัญญาสินเชื่อที่กำหนดจะครบกำหนด เครดิตบิลจะสิ้นสุดหากคุณชำระค่าอุปกรณ์ก่อนกำหนด สำหรับลูกค้าที่มีคุณสมบัติครบถ้วน บวกภาษีและค่าธรรมเนียมการเชื่อมต่ออุปกรณ์ 35 ดอลลาร์"
+			},
+			"TR": {
+				"text": "24 aylık fatura kredileriyle. 24 krediyi almadan önce tüm hesabı iptal ederseniz, krediler durur ve gerekli finansman sözleşmesinin bakiyesi ödenir. Cihazı erken öderseniz fatura kredileri sona erer. Nitelikli müşteriler için; vergi ve 35 ABD doları cihaz bağlantı ücreti dahildir."
+			},
+			"UK": {
+				"text": "Через 24 щомісячні кредити на рахунки. Якщо ви скасуєте весь обліковий запис до отримання 24 кредитів, нарахування кредитів припиняється, і нараховується залишок за необхідною фінансовою угодою. Кредитні рахунки припиняються, якщо ви достроково сплачуєте пристрій. Для клієнтів з належним рівнем обслуговування; плюс податок та плата за підключення пристрою у розмірі 35 доларів США."
+			},
+			"VI": {
+				"text": "Thông qua 24 khoản tín dụng hóa đơn hàng tháng. Nếu bạn hủy toàn bộ tài khoản trước khi nhận được 24 khoản tín dụng, khoản tín dụng sẽ dừng lại và số dư trên thỏa thuận tài chính bắt buộc sẽ đến hạn. Khoản tín dụng hóa đơn sẽ kết thúc nếu bạn thanh toán thiết bị sớm. Dành cho khách hàng đủ điều kiện: cộng thêm thuế và phí kết nối thiết bị 35 đô la."
+			}
+		}
+	],
+	"locales": [
+		{
+			"isoCode": "EN",
+			"locale": "en"
+		},
+		{
+			"isoCode": "AF",
+			"locale": "af"
+		},
+		{
+			"isoCode": "AR",
+			"locale": "ar"
+		},
+		{
+			"isoCode": "BG",
+			"locale": "bg"
+		},
+		{
+			"isoCode": "ZH",
+			"locale": "zh"
+		},
+		{
+			"isoCode": "ZF",
+			"locale": "zh-TW"
+		},
+		{
+			"isoCode": "HR",
+			"locale": "hr"
+		},
+		{
+			"isoCode": "CS",
+			"locale": "cs"
+		},
+		{
+			"isoCode": "DA",
+			"locale": "da"
+		},
+		{
+			"isoCode": "NL",
+			"locale": "nl"
+		},
+		{
+			"isoCode": "ET",
+			"locale": "et"
+		},
+		{
+			"isoCode": "FI",
+			"locale": "fi"
+		},
+		{
+			"isoCode": "FR",
+			"locale": "fr"
+		},
+		{
+			"isoCode": "DE",
+			"locale": "de"
+		},
+		{
+			"isoCode": "EL",
+			"locale": "el"
+		},
+		{
+			"isoCode": "HE",
+			"locale": "he"
+		},
+		{
+			"isoCode": "HU",
+			"locale": "hu"
+		},
+		{
+			"isoCode": "IS",
+			"locale": "is"
+		},
+		{
+			"isoCode": "ID",
+			"locale": "id"
+		},
+		{
+			"isoCode": "IT",
+			"locale": "it"
+		},
+		{
+			"isoCode": "JA",
+			"locale": "ja"
+		},
+		{
+			"isoCode": "KO",
+			"locale": "ko"
+		},
+		{
+			"isoCode": "LV",
+			"locale": "lv"
+		},
+		{
+			"isoCode": "LT",
+			"locale": "lt"
+		},
+		{
+			"isoCode": "MS",
+			"locale": "ms"
+		},
+		{
+			"isoCode": "NO",
+			"locale": "no"
+		},
+		{
+			"isoCode": "PL",
+			"locale": "pl"
+		},
+		{
+			"isoCode": "PT",
+			"locale": "pt"
+		},
+		{
+			"isoCode": "RO",
+			"locale": "ro"
+		},
+		{
+			"isoCode": "RU",
+			"locale": "ru"
+		},
+		{
+			"isoCode": "SR",
+			"locale": "sr"
+		},
+		{
+			"isoCode": "SH",
+			"locale": "sh"
+		},
+		{
+			"isoCode": "SK",
+			"locale": "sk"
+		},
+		{
+			"isoCode": "SL",
+			"locale": "sl"
+		},
+		{
+			"isoCode": "ES",
+			"locale": "es"
+		},
+		{
+			"isoCode": "SV",
+			"locale": "sv"
+		},
+		{
+			"isoCode": "TH",
+			"locale": "th"
+		},
+		{
+			"isoCode": "TR",
+			"locale": "tr"
+		},
+		{
+			"isoCode": "UK",
+			"locale": "uk"
+		},
+		{
+			"isoCode": "VI",
+			"locale": "vi"
+		}
+	],
+	"name": "promTMobile",
+	"description": null,
+	"fallbackLocale": "en",
+	"application": null,
+	"ver": "25.12.06.1928",
+	"package": "a035f1aa-86cc-4383-9abb-a5d65bd32fd0",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"baseModel": null,
+	"apps": []
+}
